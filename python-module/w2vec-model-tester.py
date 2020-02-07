@@ -6,7 +6,7 @@ from gensim.models import KeyedVectors
 # EXP_HOME = "C:/My MSc/ThesisWorks/BigData_Code_Search/DeepGenQR/experiment"
 # EXP_HOME = "F:/MyWorks/Thesis Works/Crowdsource_Knowledge_Base/DeepGenQR/experiment"
 # model_file = 'C:/My MSc/ThesisWorks/Machine_Learning_using_Big_Data/MyRCBot/chatbot/WikiVec/wiki-news-300d-1M.vec'
-model_file = 'C:/My MSc/ThesisWorks/Machine_Learning_using_Big_Data/MyRCBot/chatbot/TwitterVec/twitterFT'
+model_file = 'C:/MyWorks/ACER/fastText-models/so-java-big'
 
 # en_model = KeyedVectors.load_word2vec_format(model_file)
 

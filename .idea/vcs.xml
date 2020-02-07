@@ -2,11 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-<<<<<<< HEAD
-    <mapping directory="$PROJECT_DIR$/GraphEmbed/node2vec" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/playground" vcs="Git" />
-=======
-    <mapping directory="$PROJECT_DIR$/python-module/keras-attention-mechanism" vcs="Git" />
->>>>>>> 6ac8846e89d5a783e1df72652f8ccabdeefa7912
+    <mapping directory="$PROJECT_DIR$/seq2seq" vcs="Git" />
   </component>
 </project>

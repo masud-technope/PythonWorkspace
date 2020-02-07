@@ -1,8 +1,8 @@
 import os
 from gensim.models import FastText
 
-EXP_HOME = "F:/MyWorks/Thesis Works/Crowdsource_Knowledge_Base/DeepGenQR/experiment"
-model_file = EXP_HOME + '/pymodel/so-java-big'
+EXP_HOME = "C:/MyWorks/ACER/fastText-models"
+model_file = EXP_HOME + '/so-java-big'
 model = FastText.load(model_file)
 
 # print(len(model.wv))

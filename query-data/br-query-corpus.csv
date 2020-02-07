@@ -1,0 +1,2321 @@
+query,classlabel
+Bug bot improve documentation feedback error handling,good
+Bug Remotesvcs OSGi ServiceUIComponent violates Foundation Service UIComponent,good
+Bug org eclipse ecf internal discovery DiscoveryServiceListener register IServiceTyped listener type wildcards Discovery Service Listener IService Typed,good
+Bug Discovery JmDNS Timer canceled early DNS,good
+Bug IRC tab completion broken,good
+Bug Discovery SLP Improve robustness broken SLP devices,bad
+Bug Add utility methods BaseContainerInstantiator Base Container Instantiator,bad
+Bug Broken statement pubsub,good
+Bug Discovery DNS NPE org eclipse ecf provider dnssd DnsSdDiscoveryContainerAdapter getSRVRecord Lookup Comparator record PTR SRV record Dns Discovery Container Adapter SRVRecord,good
+Bug removePresenceListener adds listener removing remove Presence Listener,good
+Bug Missing javadoc statements compiler error,bad
+Bug OSGi NPE uninstall proxy bundle,good
+Bug remoteservice registry updated adapter accessed connect,good
+Bug remotesrvs osgi parsing exception ethz iks osgi impl CodeAnalyzer Code Analyzer,good
+Bug ServiceTypeID EMF URI conversion broken Service Type,good
+Bug Discovery ZooDiscovery Slow Zookeeper startup timeout BundleActivator start Zoo Discovery Bundle Activator,good
+Bug IRC support special characters connecting IRC server,bad
+Bug slp Invalid service type unhandled exception thrown,bad
+Bug Discovery ZooDiscovery high cpu percentage server client zookeeper Zoo Discovery,bad
+Bug Remove Serializable org eclipse ecf core util Event interfac,bad
+Bug OSGi NPE ethz iks osgi impl ChannelEndpointImpl updateTopics String String Channel Endpoint Impl update Topics,good
+Bug Communications preference isn empty,good
+Bug Zoodiscovery NPE unpublishing service,bad
+Bug Send Request Open Resource fails incorrect message,bad
+Bug OSGi NPE shutdown TCPChannelFactory TCPChannel Factory,good
+Bug org eclipse ecf core status SerializableStatus STATUS exception org eclipse ecf core status SerializableStatus checkForSerializable Throwable Serializable Status Serializable Status check Serializable,good
+Bug org eclipse ecf core ContainerFactory getContainer returns caller hang indefinitely Container Factory Container,good
+Bug Wrong underline hyperlink recognition,good
+Bug add TRACEALL option debugging equinox DebugOptions frameworks Debug Options,good
+Bug Zoodiscovery ArrayIndexOutOfBoundsException ECF Discovery View Array Bounds Exception,good
+Bug OSGi NPE ethz iks osgi impl ChannelEndpointImpl handleMessage RemoteOSGiMessage SERVICE MODIFIED received SERVICE Channel Endpoint Impl handle Message Remote OSGi Message,good
+Bug wizards restoring password Stack Overflow error ocurrs,bad
+Bug filetransfer support NTLMv authentication httpclient provider,bad
+Bug Discovery Zookeeper Zookeeper unit tests crash system exit FileNotFoundException File Exception,good
+Bug filetransfer apply additions fixes genuitec patch,bad
+Bug XMPP doesn work port Google Talk Host,good
+Bug remove code org eclipse ecf provider discovery,bad
+Bug ClassCastException SOContainerGroup SSLServerContainerGroup Exception SOContainer Group SSLServer Container Group,bad
+Bug Discovery DNS NPE system sets search path,good
+Bug Discovery DNS NPE test comparator expected property missing,good
+Bug Discovery Whitespaces allowed property,bad
+Bug TCK Bug handling multiple versioned exports single,bad
+Bug Discovery JMDNS parsing problem service type defines naming authority,good
+Bug Discovery discovery tests build ecf project org,bad
+Bug handling exported service version,good
+Bug ECF provider thread interlock,bad
+Bug RestNamespace getInitFromExternalForm Namespace Init External Form,good
+Bug Distribution Provider exceeds startup time limit existing services,bad
+Bug IRC Wrong connection click hyperlink,good
+Bug connect collaboration nickname empty,good
+Bug room tab clicked NullPointerException occurred Pointer Exception,good
+Bug MSN mail password entered Finish button clicked,bad
+Bug SCP file browse capability files,good
+Bug ClassCastException RSA intents String Exception,good
+Bug patch Smack ECF discards ASCII VCard data,good
+Bug Confirm Close Collaboration dialog wrong,bad
+Bug Discovery JMDNS URI path lost discovery,good
+Bug remoteservices AbstractClientContainer registerCallables problem Client Container register Callables,good
+Bug OSGi add system property prevent usage InetAddress getLocalHost getCanonicalHostname Inet Address Local Host Canonical Hostname,good
+Bug ColaSynchronizationStrategy instantiates Booleans unnecessarily Cola Synchronization Strategy,good
+Bug irc bot Bot forgets preset commands fails write browseable version,good
+Bug Collab Cola Real Time Shared Editor support multi character operations,bad
+Bug bug Activator registry,bad
+Bug IRC Unable close chatroom tab wrong join command,good
+Bug IRemoteFileInfo getLastModified doesn behave IRemote File Info Modified,good
+Bug Wizard handling IRC IDs fundamentally wrong special chatroom handling code,good
+Bug Service Discovery view working osgiservices,bad
+Bug deserializeSharedObjectMessage custom problem deserialize Shared Object Message,good
+Bug messages view CTabFolders doesn follow appearance settings CTab Folders,good
+Bug remoteserviceadmin org eclipse ecf osgi services remoteserviceadmin sets jre compilation profile API,good
+Bug Discovery Composite Clear nested discovery containers unset targetID CompositeDiscoveryContainer disposed target Composite Discovery Container,good
+Bug Discovery JMDNS Intermittent dead lock issues JMDNSDiscoveryContainer JMDNSDiscovery Container,good
+Bug HttpClient http content ISO UTF Http Client,bad
+Bug IRC Connection Wizard filters character,good
+Bug ECF Server Application launch config,bad
+Bug xmpp Google talk provider hobbled existence gmail string,good
+Bug connect MSN,good
+Bug Discovery Zeroconf JMDNS doesn translate scope protocols naming authority internal vice versa,good
+Bug core improve error message container type,bad
+Bug irc channel output copy select works incorrectly,good
+Bug xmpp Disconnected users resource IDs removed roster,good
+Bug remote exported configs String Collection String,bad
+Bug RemoteServices MethodInvocationDialog parameter setting clumsy unwieldy Remote Services Method Invocation Dialog,good
+Bug Discovery SLP ClassCircularityError bundle activation Circularity Error,good
+Bug server supporrt remoteservice container adapter server,bad
+Bug Discovery ZooDiscovery silencing zookeeper startup publish shutdown Zoo Discovery,bad
+Bug Infinite recursive call Zookeeper DiscoveryActivator Discovery Activator,good
+Bug LogService implementation misses details logging Log Service,good
+Bug remoteserviceadmin classloader proxy creation access IRemoteServiceProxy IRemote Service Proxy,good
+Bug JMDNSDiscoveryContainer doesn getProperty JMDNSDiscovery Container Property,good
+Bug NPE AbstractTopologyManager shutdown Topology Manager,good
+Bug IRC channel join rid entered spam,bad
+Bug NPE thrown shutting Eclipse connection provider,bad
+Bug RemoteServiceAdmin importService robust face matching configs Remote Service Admin Service,good
+Bug TCK RSA events properties incorrectly,good
+Bug Discovery view incapable handling duplicate elements,good
+Bug IRCChannelContainer NPE disconnect connection timeouts IRCChannel Container,good
+Bug resolution confused typedef,bad
+Bug abstraction ECF,bad
+Bug Discovery JMDNS connect swallows root JMDNS exception,good
+Bug ecf Improve server side keepAlive handling Alive,bad
+Bug content assist Code assist closes list filter items,bad
+Bug msn MSNContainer sendPresenceUpdate NullPointerException UNAVAILABLE send Presence Update Pointer Exception,good
+Bug filetransfer httpclient Timeout unit test org eclipse ecf tests filetransfer URLRetrievePauseResumeTest testReceiveFile URLRetrieve Pause Resume Test test Receive File,good
+Bug Discovery JmDNS JmDNS binding loopback DNS DNS,good
+Bug docshare insufficient cleanup editor closing,good
+Bug remoteservices RegistrySharedObject handleCallRequest Registry Shared Object handle Call Request,good
+Bug Discovery Composite container register registered services providers,good
+Bug Discovery jSLP ServiceName illegal characters SLP Service,good
+Bug ReplicaSharedObjectDescription toString thread safe Replica Shared Object Description String,good
+Bug Discovery resilient broken hostnames,bad
+Bug Discovery Composite CompositeDiscoveryContainer advertisers locator Composite Discovery Container,good
+Bug filetransfer httpclient Test failures org eclipse ecf tests filetransfer URLRetrieveTest URLRetrieveTestWithConnectJob testFTPReceiveFile URLRetrieve Test URLRetrieve Test Connect Job test FTPReceive File,good
+Bug Discovery Composite CDC add container locator list,good
+Bug Discovery zeroconf services,bad
+Bug Discovery jSLP path supported SLP,good
+Bug ColaDocumentChangeMessage constants hard coded integers Cola Document Change Message,good
+Bug msn NotificationSession IllegalArgumentException NLN notifications Notification Session Illegal Argument Exception,good
+Bug Discovery Composite junit framework AssertionFailedError registered service Assertion Failed Error,bad
+Bug ContainerFactoryTracker tracks wrong Container Factory Tracker,good
+Bug Discovery Zookeeper Auto reconnect issue,bad
+Bug filetransfer add defeat protocol factory extension contributions,good
+Bug remoteservices test TwitterRemoteServiceTest failing connect twitter service Twitter Remote Service Test,good
+Bug JMDNS Discovery Thread slowing shutdown,bad
+Bug remotesrvs osgi remote method invocation fails mismatch caused parameter type inheritance org eclipse ecf internal provider osgi RemoteServiceImpl callSync Remote Service Impl call Sync,good
+Bug AbstractConsumerContainerSelector matchSupportedConfigs test empty array Consumer Container Selector match Supported Configs,good
+Bug send file functionality fails launches exception org eclipse ecf core SharedObjectCreateException Shared Object Create Exception,bad
+Bug pause reads entire resource HttpClient provider Http Client,bad
+Bug remoteservices registry start remote service ids,bad
+Bug remotesvcs RegistrySharedObject handle NPE Registry Shared Object,good
+Bug jms connect sequence timing problem,good
+Bug Bittorrent bencode decoder parse dictionary list,good
+Bug Standalone ClientApplication breaks ContainerFactory ECFPlugin Client Application Container Factory,good
+Bug Discovery SLP org eclipse ecf tests discovery DiscoveryTest testAddServiceListenerIServiceTypeIDIServiceListener fails SLP provider Discovery Test test Add Service Listener IService Type IDIService Listener,bad
+Bug remoteservices insufficient cleanup RegistrySharedObject handleCallResponse Registry Shared Object handle Call Response,good
+Bug RemoteSrvs Change InetAddress getLocalHost getCanonicalHostName localhost Remote Srvs Inet Address Local Host Canonical Host,good
+Bug Discovery Composite org eclipse ecf provider discovery CompositeDiscoveryContainer connect IConnectContext handle ContainerConnectExceptions nested discovery providers Composite Discovery Container IConnect Context Container Connect Exceptions,good
+Bug FileTransferInfo shares properties instances File Transfer Info,good
+Bug server add convenience api,bad
+Bug Base classname disambiguated Java,bad
+Bug Improved retrieval remote filename,bad
+Bug Discover SLP invalid service property SLP,bad
+Bug Discovery SLP optional IServiceID getServiceName isn service discovery registration IService Service,good
+Bug Discovery SLP org eclipse ecf internal provider jslp Activator start BundleContext activate jSLP eagerly Bundle Context SLP,good
+Bug JMDNS provider shutdown fails NPE connect successful,good
+Bug presence xmpps accounts contacts list,good
+Bug MSN CPU usage increases connecting,bad
+Bug NullPointerException tracing org eclipse ecf core util Trace catching Pointer Exception,good
+Bug org eclipse ecf server GenericServerContainerGroupFactory isSSLTransportSpecified Map API compatible bundle BREE Server Container Group Factory SSLTransport,good
+Bug Discovery JMDNS JMDNS exchanges priority weight,good
+Bug message XMPP Server displayed,bad
+Bug provider connect receive hyperlink,good
+Bug Discover Composite Test listener received expected discovery event expected,bad
+Bug Shared Editor notification connect disconnect connection,bad
+Bug Contacts view menu entries disabled logged,good
+Bug Discovery SLP JSLPServiceInfo IServiceInfo doesn SecurityException JSLPService Info IService Info Security Exception,good
+Bug NullPointerException PollingInputStream readPendingInput Pointer Exception Polling Input Stream read Pending Input,good
+Bug RemoteCallParameter Builder preserve parameter order Remote Call Parameter,good
+Bug Discovery JMDNS JMDNSServiceIDTest testServiceIDFactory fails JMDNSService IDTest test Service IDFactory,good
+Bug Discovery JmDNS IServiceTypeID naming authority DNS IService Type,good
+Bug discovery zookeeper location URI include port,good
+Bug Imports org xml javax xml manifest,bad
+Bug Missing NLS message,bad
+Bug ClassCastException handling osgi event handler topics Exception,good
+Bug open contacts dialog doesn recognize users groups,bad
+Bug osgi simplify implementation getRemoteServiceReferences Remote Service References,good
+Bug IRC provider doesn fire IContainerDisconnectingEvents IContainer Disconnecting Events,good
+Bug IRC Patch commands Root Channel Containers,good
+Bug Containers instantiated time wizard opens,good
+Bug Discovery jSLP Provider doesn handle scope correctly SLP,good
+Bug server bundle shutdown NPE,bad
+Bug Provider prints error message log unnecessarily conditions,bad
+Bug SSLServerSOContainerGroup close ServerSocket disposing SSLServer SOContainer Group Server Socket,good
+Bug IRC messages handled,bad
+Bug Local access local remoteservicereference implemented,bad
+Bug releng filetransfer Removed javax microedition,bad
+Bug transport Update site contacting downloading cancelable,good
+Bug Illegal reference URI compareTo URI org eclipse ecf identity compare,good
+Bug NPE contacts browse dialogt,bad
+Bug SharedObjectDatashareContainerAdapter dispose IChannel removeChannel called Shared Object Datashare Container Adapter remove Channel,good
+Bug Regression Exception thrown preview report design,bad
+Bug wizards Passwords reset user input username field,bad
+Bug remoteserviceadmin Service Info publish endpointDescription endpoint Description,bad
+Bug DNS Tests fail missing listener implementation,good
+Bug wizards Weak mail address validation User field,bad
+Bug Discovery jmdns JMDNSDiscoveryContainer implementation JMDNSDiscovery Container,good
+Bug XMPP Room subject updated xmpp chat,good
+Bug ecf collab contribute presence container,good
+Bug RestClientService ignores content encoding Client Service,good
+Bug Discovery Composite CompositeDiscoveryContainer misses DiscoveryContainers Composite Discovery Container Discovery Containers,good
+Bug ShowImageShell appears leak Image Image Shell,good
+Bug Discovery DNS NPE SRV record accompanying TXT records,good
+Bug IRC kick ban unban deop commands parse error,good
+Bug remoteserviceadmin IOException readEndointDescriptions error creation read Endoint Descriptions,good
+Bug Discovery DNS DnsSdDiscoveryException subclass ECFRuntimeException Dns Discovery Exception ECFRuntime Exception,good
+Bug ClassCastException JUnit integration tests Exception,bad
+Bug RestClientService invokeRemoteCall exception successful HTTP operation returns HTTP status Client Service invoke Remote Call,good
+Bug called DocShares ECF group handling Doc Shares,good
+Bug Discovery jmdns protocol incorrectly uri protocol,good
+Bug Bug UserLibrary hashCode User Library hash Code,good
+Bug External folders project created,good
+Bug Incorrect syntax diagnosis source mode,bad
+Bug ArrayIndexOutOfBoundsException compiler feeding real java code Array Bounds Exception,bad
+Bug Useless call getSource SourceTypeConverter Source Source Type Converter,good
+Bug compiler NPE WildcardBinding signature Wildcard Binding,bad
+Bug compiler compiler accepts normal modifiers type arguments,bad
+Bug compiler API compatibility AST TypeReference Type Reference,bad
+Bug DOM AST missing type parameters constructor declaration JLS,good
+Bug Javadoc CompilationParticipant isAnnotationProcessor accurate Compilation Participant Annotation Processor,good
+Bug Formatter inserts space comment,good
+Bug Compiler regression,bad
+Bug Source attachment rootpath field missing,good
+Bug resource leaks org eclipse jdt compiler tool tests,bad
+Bug formatter Comments indentation error javadoc statements,good
+Bug typo javadoc ClassInstanceCreation Instance Creation,good
+Bug NPE enum missing contructor,good
+Bug Strange behavior errors max errors compilation unit,good
+Bug Test failure Compliance compliance,bad
+Bug Error location correct empty array initializer,bad
+Bug Investigate failures,bad
+Bug compiler CaptureBinding substituteInferenceVariable Capture Binding substitute Inference Variable,good
+Bug IllegalStateException Bad AST node structure ASTConverter Illegal Exception,bad
+Bug content assist Disable remove substring completion Preferences,good
+Bug positive reference analyzer negated,bad
+Bug AST newCompilationUnit javadoc error Compilation Unit,bad
+Bug typo javadoc IPackageFragmentRoot isArchive IPackage Fragment Root Archive,good
+Bug classpath file read modifications write error,bad
+Bug Small problem enumerations statements,bad
+Bug Don encoding generated file change,good
+Bug JavaModel refreshExternalArchives happen search primed Java Model refresh External Archives,bad
+Bug perform validateEdit setting encoding validate Edit,good
+Bug compiler Typeids unique plausibly broken cherry picking,bad
+Bug Compile error HEAD AptConfigurationBlock Apt Configuration Block,good
+Bug OutOfMemory error building large project annotations Memory,bad
+Bug compiler hook lambda expressions analysis,good
+Bug Deleted configs remain favorite list,bad
+Bug compiler identifier lambda parameter rejected,good
+Bug compiler Wrong pointer access variable location warning,good
+Bug SearchEngine regressions Search Engine,bad
+Bug JDT impl sun mirror util Types isAssignable returns wrapper primitive assignment Assignable,bad
+Bug Assertion failure search,bad
+Bug Compliance test fails launched JRE Dcompliance,bad
+Bug deleteDerivedResources ignore ResourceException delete Derived Resources Resource Exception,good
+Bug Wrong message content Javadoc,bad
+Bug code assist NPE LocalDeclaration resolve anonymous lambda body Local Declaration,bad
+Bug Breaking inconsistency java nio Charset java Eclipse,bad
+Bug compiler missing type inference,bad
+Bug correct project file encodings Unix delimiter,bad
+Bug DOM Confusion type annotations varargs method parameter,good
+Bug Annotation bindings don provide declared elements methods,good
+Bug compiler internal Remove forcing creation annotated bindings,bad
+Bug AIOBE content assist,good
+Bug Move top level doesn optimize imports refactoring,good
+Bug compiler syntax error ARROW COLON COLON shouls,bad
+Bug TypeBinding TypeReference parameter type annotations Type Binding Type Reference,good
+Bug javadoc nested unescaped XML tags,bad
+Bug define JRE build targeting BETA JAVA,bad
+Bug IdeJavaSourceOutputStream charset Ide Java Source Output Stream,good
+Bug Tests fail org eclipse jdt compiler tool tests CompilerInvocationTests JRE Compiler Invocation Tests,good
+Bug Failure testAddNonJavaResourcePackageFragmentRoot disabled test Add Java Resource Fragment Root,good
+Bug compiler Follow bug explicit constructor calls allocation expressions updates,good
+Bug DOM clients control bindings AST modified,good
+Bug File encoding save,good
+Bug Method analysis misses bunch cases,bad
+Bug GlobalActions File Save fails entering valid file Global Actions,bad
+Bug Bad Javadoc link ImportRewrite create ICompilationUnit Rewrite ICompilation Unit,good
+Bug compiler compiler find correct parameterized version overloaded method,good
+Bug compiler AIOOBE ClassFile dumpTargetTypeContents File dump Target Type Contents,good
+Bug NPE failures Parser,bad
+Bug assist Wrong proposals order completing item array,good
+Bug compiler source files lead eclipse hang copy paste,good
+Bug dom Incorrect source ranges annotated SimpleType nested ParameterizedType Simple Type Parameterized Type,good
+Bug code assist members appearing declaration member lambda expression suggested,good
+Bug Enable Java model caches recover errors,good
+Bug compiler codegen Resilience NPE needed Scope getJavaLangInvokeMethodHandlesLookup Java Lang Invoke Method Handles Lookup,bad
+Bug inference capture array resolution error,bad
+Bug assist proposed writing method declarations,bad
+Bug compiler AbstractMethodError method Method Error,bad
+Bug Failures CompilerInvocationTests Compiler Invocation Tests,good
+Bug Stackoverflow autocomplete lambdas,bad
+Bug LambdaExpressionsTest test fails Lambda Expressions Test,good
+Bug Compiler regression,bad
+Bug compiler Java Compile Error typed arguments,good
+Bug formatter Spaces removed formatted region compilation unit,good
+Bug compiler Type annotations intersection types dropped code generator,good
+Bug DefaultASTVisitor doesn override methods ASTVisitor,good
+Bug compiler Type annotations dropped call routed synthetic bridge method,good
+Bug Inconsistent stack error Java,bad
+Bug Builder debug info wrongly accuses user requesting full build,good
+Bug compiler identifier trigger diagnostic,bad
+Bug compiler NPE TYPE annotated method missing type,bad
+Bug compiler Target meta annotations restored properly binary annotation types,good
+Bug compiler java lang AbstractMethodError executing method code Method Error,good
+Bug formater Empty lines affect indentation wrapped elements,good
+Bug Typo javadoc AptPreferenceConstants PROCESSING EDITOR DISABLED OPTION Apt Preference Constants,good
+Bug Deadlock JavaModelManager PerProjectInfo DeltaProcessingState Java Model Manager Project Info Delta Processing,good
+Bug compiler issue vararg type element accessibility,good
+Bug Missing warnings Wildcards annotations,bad
+Bug API SwitchStatement statements returns list SwitchGroups Statement Groups,good
+Bug Wrong Delta Adding Filtered Folder,good
+Bug Error website,bad
+Bug search references workspace enum type statically importing enum constant,good
+Bug enclosing method error EJC compiled works fine oracle jdk compiler,good
+Bug ASTVisitor preVisit ASTVisitor postVisit called correctly pre Visit post Visit,good
+Bug compiler codegen race condition field CodeStream noVisibleLocals method CodeStream init Code Stream Visible Locals Code Stream,bad
+Bug ASTRewrite type annotations adds additional,good
+Bug Resource exist,bad
+Bug generics Unexpected type mismatch error nested types generics,good
+Bug dom javadoc support type parameter Javadoc tags,bad
+Bug linear progress open type dialog,bad
+Bug compiler incorrect merge flowInfo UnconditionalFlowInfo addInitializationsFrom flow info flow Info Unconditional Flow Info add Initializations,bad
+Bug compiler extraneous bound mismatch error,good
+Bug compiler Ambiguous method Lambdas,good
+Bug FUP bug java eclipse core runtime recognized org eclipse core runtime,good
+Bug EclipseCompiler crashes err passed client Eclipse Compiler,good
+Bug compiler Incompatible type lambda expression parameter,good
+Bug error message reference compiler,bad
+Bug Add protection missbehaving container returning entries,good
+Bug builder Build automatically save,bad
+Bug compiler FUP bug consolidate interaction unboxing NPE deferred checking,good
+Bug compiler Java compiler erroneously reports type mismatch,good
+Bug compile Java code,bad
+Bug compiler Verify error varargs inference,good
+Bug Unnecessary validation optional library classpath entries,good
+Bug check interaction methods bridge methods generics,good
+Bug Java array varargs regression,good
+Bug ResourceLeakTests testBug failed Resource Leak Tests test Bug,good
+Bug org eclipse jdt internal compiler batch Main initializeAnnotationProcessorManager consumes ClassNotFoundException initialize Annotation Processor Manager Exception,good
+Bug compile ecj reports Error javac doesn,good
+Bug code assist Invoking code assist variable initialized lambda result,good
+Bug Investigate failures,bad
+Bug compiler Adding potential mark unexpected assertion compiling,good
+Bug compiler org eclipse jdt internal compiler ast OperatorExpression nullStatus FlowInfo conservative Expression Status Flow Info,bad
+Bug IndexManager accept jobs processing thread Manager,good
+Bug adopt syntax annotations qualified type names NullTypeAnnotationTest Type Annotation Test,bad
+Bug compiler NPE reporting invalid enclosing type,bad
+Bug formatter Indent Empty lines option doesn work empty blocks,good
+Bug compiler Incongruent Lambda Exception thrown,good
+Bug Problem classes referenced jars folders type resolved,bad
+Bug formatter Problems doc comment support disabled,good
+Bug Forbidden types Code Assist,good
+Bug search Search references fields potential matches,good
+Bug Proprietary licenses,bad
+Bug combine type annotations substitution parameterized type,bad
+Bug Error creating external annotation array parameter Type format,bad
+Bug compiler allocate extra bits methods UnconditionalFlowInfo Unconditional Flow Info,good
+Bug Investigate failures,bad
+Bug InstructionPointerContext reference closed editor Instruction Pointer Context,good
+Bug ObjectCollectedException shutting tests Object Collected Exception,good
+Bug Deadlock checkout java project,bad
+Bug source lookup launching string variables bootpath launch dialog stay,bad
+Bug Add Java Exception Breakpoint dialog truncated text checkboxes font size increased,bad
+Bug buttons incorrectly enabled classpath tab,bad
+Bug Breakpoint condition editor height hint,good
+Bug breakpoints external source,bad
+Bug Sharing launch config difficult INSTALL,bad
+Bug Source selected element Java Snippet Editor,bad
+Bug JDIDebugTarget adds breakpoints terminated disconnect JDIDebug Target,good
+Bug Ctrl Space working Scrapbook,good
+Bug Bad usages URL equals Object,good
+Bug CellEditors NPE JFace cell editor variables view Cell Editors,bad
+Bug Unneccessary error logging detail formatter manager,good
+Bug registry API,good
+Bug sun jdi ObjectCollectedException breakpoint condition evaluation Object Collected Exception,bad
+Bug DCR Debugger uncaught exception,bad
+Bug breakpoints NPE attempting breakpoint,bad
+Bug Enable compiler compliance,good
+Bug debug Debugging doesn work properly classes,good
+Bug NPE JavaDetailFormatterManager Java Detail Formatter Manager,good
+Bug inspect display methods,bad
+Bug evaluation evaluation method generics work,bad
+Bug Console format Japanese,good
+Bug toggle selection treeitem variables view,bad
+Bug CCE performing eval statement,bad
+Bug Eval incompatible thread,bad
+Bug NullPointerException PopupInspectAction close Pointer Exception Popup Inspect Action,good
+Bug NPE shutdown debug remote launch,bad
+Bug console deadlock ConsoleDocument ant execution autobuild Console Document,good
+Bug error ConditionalJump Instruction Conditional Jump,good
+Bug CCE performing evaluation autobox,bad
+Bug step filters confuse stepping JSP stratum,good
+Bug statement missing JavaBreakpointListenerProxy installingBreakpoint Java Breakpoint Listener Proxy installing Breakpoint,good
+Bug JREs location installed JREs pref Mac search,good
+Bug visual indication breakpoint condition,bad
+Bug Missing EEs prevent project build,bad
+Bug Launching failing missing optional project,good
+Bug Update Javadoc locations docs api,good
+Bug Deregistered launches removed JavaHCRManager Java HCRManager,bad
+Bug watch expression tests fail,bad
+Bug applet parameters trailing spaces,bad
+Bug launch programs Linux java executable,good
+Bug configs java packages copied output folder,good
+Bug AST Exp Eval variable declaration don work array type variables,good
+Bug Java Editor Disconnecting Debug Session,bad
+Bug Hit count field small Settings detail pane,bad
+Bug ThreadGroup Threads displayed Debug view parent didn threads Thread Group,good
+Bug JDI ArrayIndexOutOfBoundsException debugging deleted breakpoints Array Bounds Exception,bad
+Bug Gracefully handle partial absence,bad
+Bug preferences step filtering pref persisted workbench restart,good
+Bug Change dialogs,bad
+Bug Evaluating Code Generics work debugging,bad
+Bug test failure testSimpleLineCounter test Simple Counter,bad
+Bug Problem implementation support JSR,good
+Bug Invalid thread access RuntimeClasspathViewer preferenceChange err grp Runtime Classpath Viewer preference Change,good
+Bug JavaLineBreakpoint thread safe CPU Java Breakpoint,good
+Bug NPE JDIDebugTarget quering supportsInstanceRetrieval JDIDebug Target supports Instance Retrieval,good
+Bug Action icon inconsistencies,bad
+Bug JavaRuntime computeVMInstall method returns workspace compatible version launch configuration Java Runtime compute VMInstall,good
+Bug NPE validating breakpoint location,good
+Bug suspend uncaught exception compiler warning,good
+Bug runnable previous exception,good
+Bug Preference existant JREs,bad
+Bug NPE saving file debugging ant task,bad
+Bug Display View Undo,good
+Bug ExpressionInputDialog dispose called Expression Input Dialog,good
+Bug Debugger letting change String,bad
+Bug Closed project error message problems,bad
+Bug JDIModelPresentation resource IJavaStratumLineBreakpoint JDIModel Presentation IJava Stratum Breakpoint,good
+Bug Debug honor multiple output folders,bad
+Bug Loss suspended breakpoint,good
+Bug Debugger looses selection focus lot thread stack debug,bad
+Bug JREsPreferencePage java resizing problem JREs Preference,bad
+Bug Resource exception JavaDebugOptionsManager initializeProblemHandling Java Debug Options Manager initialize Problem Handling,good
+Bug Breakpoint unclear refactoring,bad
+Bug regression display Error inspecting scrapbook,good
+Bug LaunchingPlugin specification resourceCopyExclusionFilter Launching Plugin resource Copy Exclusion Filter,good
+Bug JUnit JUnit recognize JunitTestCase Test superclass Junit Test,bad
+Bug reference expressions lambdas file triggers warning missing numbers,good
+Bug Pointer JavaBreakpoint Java Breakpoint,bad
+Bug ParserConfigurationException load JREs Mac Parser Configuration Exception,good
+Bug patch console source lookup Clicking Java stack trace hyperlink console unusably slow,good
+Bug Unhandled event loop exception,bad
+Bug Surrogate support JavaWordFinder Java Word Finder,good
+Bug instance filter tests working,good
+Bug JDT version sun jdi event EventSet doesn extend java util Event,good
+Bug TVT TCT Text boxes ovelap borders,bad
+Bug Error removing JRE,bad
+Bug EventRequestManagerImpl addRequestIDMapping removeRequestIDMapping handle VMDeathRequests Event Request Manager Impl add Request IDMapping remove Request IDMapping VMDeath Requests,good
+Bug Applet parameter quoted,good
+Bug pass project classpath external programs defined builders,bad
+Bug variables modify String variable empty string Change dialog,bad
+Bug variables Variables Change accept hex,bad
+Bug constantly method node variables view,bad
+Bug REGRESSION threads longer expanded Debug view visible,bad
+Bug ProjectCreationDecorator test fails Java Project Creation Decorator,good
+Bug JRE container dialog empty combo,good
+Bug org eclipse jdt debug test stepping ForceReturnTests depend specific behaviour Force Tests,good
+Bug Reporting formatter errors,good
+Bug ConnectionType remembered Remote Java Application Launch Config Connection Type,good
+Bug Open Clipboard action report progress,good
+Bug refactoring launch config refactoring project rename undo,good
+Bug NPE JavaUISourceLocator remote debugging Java UISource Locator,good
+Bug Launch configuration dialog doesn cancel launch,bad
+Bug Don log VMDisconnectedException VMDisconnected Exception,bad
+Bug Streams left open exception,bad
+Bug Feature IJavaClassType IJava Type,good
+Bug Internal error Lauch Configurations dialog,bad
+Bug Drop frame failed evaluation message error dialog evaluation flag cleared,good
+Bug Debugger confused watchpoints fields,bad
+Bug type local variables displayed,bad
+Bug java launching Applet parameters unusual characters confuse eclipse,good
+Bug IllegalArgumentException Duplicate Illegal Argument Exception,bad
+Bug NPE SocketConnection Socket Connection,good
+Bug unable step suspended breakpoint evaluation,good
+Bug ConcurrentModificationException ThreadMonitorManager Concurrent Modification Exception Thread Monitor Manager,good
+Bug Nested type names correctly displayed,bad
+Bug RuntimeProcess synchronize access fTerminated fExitValue Runtime Process Terminated Exit,good
+Bug VMDisconnectedException caught breakpoint VMDisconnected Exception,good
+Bug Error evaluating,bad
+Bug hcr NPE hot code replace,good
+Bug stepping conditional breakpoint,bad
+Bug Problems project rename,bad
+Bug detail formatter dialog missing code assist hint,good
+Bug JDIThreads responding startup,bad
+Bug IVMInstallType api AbstractVMInstallType impl thread safe IVMInstall Type VMInstall Type,good
+Bug JREContainer hasChildren locks Children,bad
+Bug Java editor caused NPE snippet editor,good
+Bug Dialog font Breakpoints view,good
+Bug Add Filter step filtering broken,bad
+Bug Empty display view persisted,good
+Bug Missing tags increment bundle version,bad
+Bug Insp Display actions menu enabled scrapbook,bad
+Bug Console input text properly eclipse console panel,good
+Bug jres Changing installed JRE doesn warn compiler compliance compatible,good
+Bug Selecting Ant Build launch configuration External Tools Configuration dialog NPE,good
+Bug NPE killing Java process,bad
+Bug breakpoint annotation Highlighted,bad
+Bug Timeout exceptions,bad
+Bug TVT TCT TVT Space missing colon sign French,bad
+Bug codeassist work Display view,bad
+Bug Blocked opening Java Perspective CVS check,bad
+Bug compiler level product,bad
+Bug ResourceMarkerAnnotaionModel unnecessary fireModelChange Resource Marker Annotaion Model fire Model Change,bad
+Bug Launch configuration refactoring exceptions Entries Configuration vanish usage Eclipse IDE,bad
+Bug Ant Editor range indication supported,bad
+Bug Quotes execution arguments Java launch,bad
+Bug java lang reflect InvocationTargetException thrown invoking Open Clipboard Invocation Target Exception,good
+Bug eclipse SDK win Exception processing async thread queue,bad
+Bug VMDefinitionsContainer parse ascii VMDefinitions Container,good
+Bug Breakpoint remains enabled disabling setting hit count,bad
+Bug CTRL Recognized EOF,good
+Bug NullPointerException AbstractJavaLaunchConfigurationDelegate getDefaultWorkingDirectory AbstractJavaLaunchConfigurationDelegate java Pointer Exception Java Launch Configuration Delegate Working Directory Java Launch Configuration Delegate,good
+Bug TimeoutException debugging org eclipse tests Timeout Exception,bad
+Bug clear work stack trace console,good
+Bug update JRE javadoc links Sun Oracle,good
+Bug Invalid code stepping junit code,bad
+Bug Auto detect Install required,good
+Bug Unable change source attachment JRE jar,bad
+Bug JDIDebugTarget handleDebugEvents getAdapter identifying event source JDIDebug Target handle Debug Events Adapter,good
+Bug Installed JREs preference layout problems,good
+Bug Evaluate action enabled java stack frames,good
+Bug ClasspathContainerInitializer API JRE Classpath Container Initializer,good
+Bug Missing Java project context stratum breakpoints,good
+Bug ClassCastException evaluating assigment array interfaces Exception,bad
+Bug Console buffer size limit,bad
+Bug NPE adding breakpoint external Java file,bad
+Bug Creating image descriptor registry shutdown,good
+Bug NullPointerException JavaAppletLaunchConfigurationDelegate buildHTMLFile Pointer Exception Java Applet Launch Configuration Delegate build HTMLFile,good
+Bug DisplayView registers document listener removes Display View,good
+Bug deprecated API SearchEngine Search Engine,good
+Bug Detail Formatters pref,good
+Bug arguments backslash problems,bad
+Bug Resume fails suspend breakpoint stepping BUG,bad
+Bug Java Debug Logical Structure pref wrong colors,good
+Bug ArrayIndexOutOfBoundsException debugging Array Bounds Exception,bad
+Bug NPE setting breakpoint,bad
+Bug Classpath tab Java application wrong colors,bad
+Bug Java Classpath tab huge,good
+Bug Step Selection hyperlink broken,good
+Bug View management respect debug context manager,bad
+Bug Internal error stepping,bad
+Bug Display,bad
+Bug Conflits JRE solved correctly,bad
+Bug viewers selection lost launch view stepping sync block,bad
+Bug Open popup suspended exception doesn work,good
+Bug Unable install breakpoint,bad
+Bug NPE adding variable view,bad
+Bug resume single thread suspended,good
+Bug Drop Frame updating stack frames correctly,good
+Bug variables views Edit details formatter menu array types,good
+Bug Link exception console,good
+Bug Unhandled NPE HCR manager,good
+Bug debugger determineIfDaemon exception determine Daemon,good
+Bug NPE JavaConnectTab Java Connect Tab,good
+Bug Compilation error breakpoints showing breakpoints view,bad
+Bug breakpoint mode check debug model specific,good
+Bug Preference suspending breakpoint,bad
+Bug StringIndexOutOfBoundsException BinaryBasedSourceGenerator getReturnStatement BinaryBasedSourceGenerator java String Bounds Exception Binary Based Source Generator Statement Binary Based Source Generator,good
+Bug NPE JDIDebugTarget ThreadStartHandler handleEvent JDIDebug Target Thread Start Handler handle Event,good
+Bug unable create method breakpoints external source,bad
+Bug Display Content Assist work consistently Variables View,good
+Bug Java snippet navigate actions work keybindings,good
+Bug Fixed bug launchingsupport jar compatible JRE recognized latest builds,bad
+Bug API Move selected structure API Debug,good
+Bug JavaRuntime detectDefaultVM options Java Runtime detect,good
+Bug resolve compatibility issues Eclipse constant internals JDT,good
+Bug NPE evaluating context,bad
+Bug Marker clicking ruler,bad
+Bug setting classpath work,bad
+Bug Unable evaluation context Scrapbook,good
+Bug ActionSets classpath Toolbar shudders opening Classpath Variables preference Action Sets,bad
+Bug Workspace runnable correctly,bad
+Bug Exception hyperlink conflicts stack trace,bad
+Bug JRE location wrong installing description file,bad
+Bug Mac OSX JDT launching plugin check locations Snow Leopard Lion,good
+Bug Conditions work JSP breakpoints,bad
+Bug Minor caught uncaught enabled single selection,good
+Bug Failing HCR test Mac Cocoa,good
+Bug breakpoints external source,bad
+Bug Unable add libraries Java build path Project preferences,good
+Bug NPE debugging,bad
+Bug NPE opening Configuration Dialog linux gtk,bad
+Bug Monitor stack depth read JDWP interchanged,good
+Bug Java Launch Configs DELETE key event lists classpath tab,bad
+Bug VMDisconnectedException logged source lookup VMDisconnected Exception,bad
+Bug Eclipse aware launched JVM JRockit,bad
+Bug HCR failed message terminated,good
+Bug Strange Code ExpressionInputDialog dispose Expression Input Dialog,good
+Bug change background color Display view,good
+Bug UnsupportedOperationException Unsupported Operation Exception,bad
+Bug ClassNotLoaded JDI exception conditional breakpoint Loaded,bad
+Bug CME Running test suite,bad
+Bug Contribute remote Ant support extraClasspathEntry extra Classpath Entry,bad
+Bug variables view click variable produces ClassNotLoadedErrors Loaded Errors,bad
+Bug source lookup Stack Frame CHANGE events longer force source lookup,bad
+Bug safe runnables listeners untrusted code,good
+Bug JRE libraries don work running application,bad
+Bug Pattern Matching independent IOConsole IOConsolePartitioner IOConsole Partitioner,bad
+Bug Scrapbook evaluations fail pre projects,bad
+Bug Debbugger Source Lookup work variables,bad
+Bug nightly test failures empty stack exception eval engine,bad
+Bug patch launching Debug honors JRE args Launcher args,good
+Bug java lang ArrayIndexOutOfBoundsException ConsoleDocumentAdapter Array Bounds Exception Console Document Adapter,bad
+Bug Evaluation stacktrace exception,good
+Bug NPE variable substitution,bad
+Bug Add JRE fails retain system library modifications,bad
+Bug PList parser test failures tests,good
+Bug preferences Java Debug preference validates uninitialized fields,bad
+Bug full breakpoints hit thread,bad
+Bug Content assist work breakpoint properties,bad
+Bug scrapbook suspends uncaught exceptions,good
+Bug Loss member details text Breakpoints,good
+Bug Don prompt main main selected,bad
+Bug JDI test suite work Mac OSX,bad
+Bug busy cursor choosing JRE base directory,bad
+Bug NFE crash debugging,bad
+Bug changing arg scrapbook properties restart,good
+Bug NPE invoking content assist view,good
+Bug Bootpath incorrect project,good
+Bug jre JRE System Library properly Java update symbolic links,good
+Bug debugging extremally slow latest,bad
+Bug Missing wizard banner library container,bad
+Bug refactoring Mysterious refactoring failure caused tests fail,good
+Bug Numerous fixes Instances References features,good
+Bug ArrayOutOfBoundsException debug event dispatch Array Bounds Exception,bad
+Bug Organize Favorites dialog remember size,good
+Bug Migrate compilation error uncaught exception handling breakpoint listener extension,good
+Bug Invalid Thread Access launching,bad
+Bug VMDisconnectedExceptions log VMDisconnected Exceptions,good
+Bug rebuild returns,bad
+Bug failing tests candidate caused ConditionalBreakpointsWithGenerics testBreakpointWithGenericCondition Conditional Breakpoints Generics test Breakpoint Condition,good
+Bug append jar bootpath,good
+Bug suspended thread evaluating condition labels,good
+Bug setter getter step filter test failures Mac,bad
+Bug Performance performance eclipse severely degrades time,bad
+Bug Conditional breakpoint compilation problem dialog usability,good
+Bug Exception breakpoints persisted,bad
+Bug NPE debug,bad
+Bug Breakpoint hit count widget focus enabled,good
+Bug Variable hover incorrect members type object,good
+Bug NPE disabling breakpoint,bad
+Bug breakpoint properties dialog problems target,bad
+Bug User entries classpath top element displayed empty,good
+Bug Edit Remove buttons incorrectly enabled,good
+Bug test failure Mac,bad
+Bug debug deprecated runtime code,bad
+Bug Array bounds HCR,bad
+Bug Error adding JRE Windows Preferences Java Installed JREs settings,bad
+Bug performance conditional breakpoint performance test failure,good
+Bug HeapWalking manager support debug targets provide IJavaDebugTarget adapter Heap Walking IJava Debug Target,good
+Bug JRE classpath,bad
+Bug SISPSIE JavaDebugHover findLocalVariable Java Debug Hover find Local Variable,bad
+Bug Javadoc location initial,good
+Bug launching context launching resource based objects,bad
+Bug Inspect doesn work Display View,good
+Bug Failing importbreakpoints tests,bad
+Bug Exception renaming project shared config,good
+Bug Searching installed JREs broken,good
+Bug Debug Breakpoint actions remote stuff,good
+Bug Incorrect error reporting AbstractJavaLaunchConfigurationDelegate Java Launch Configuration Delegate,good
+Bug Filtering statics filters constants,good
+Bug Hit count breakpoints,bad
+Bug working directory args Ant processes,bad
+Bug NPE AbstractVMInstallType findVMInstallByName VMInstall Type find VMInstall,good
+Bug debug context thread,bad
+Bug JREContainer RuleEntry equals returns early Rule Entry,good
+Bug NPE suspending attempting step system thread,good
+Bug EEVMPage creates file times selecting file,good
+Bug unable add JDK Installed JRE Preferences,good
+Bug NPE JavaLogicalStructures Java Logical Structures,good
+Bug Launching failing missing optional project,good
+Bug naming prompt JRE resolution,bad
+Bug NLS ing internal error messages,good
+Bug Installed JRE Source attachment existing location,bad
+Bug conditional breakpoint step,good
+Bug Race condition AbstractVMInstallType createVMInstall VMInstall Type create VMInstall,good
+Bug Display evaluates incorrectly,bad
+Bug NPE ctrl dbl click JavaDetailFormattersPreferencePage Java Detail Formatters Preference,good
+Bug Missing icons launch config creation tabs,bad
+Bug Breakpoints breakpoint working,bad
+Bug breakpoints Alt Enter java breakpoint properties command exceptions,bad
+Bug Prevent breakpoint detail panes changing background colour selection,good
+Bug ClassCastException JavaApplicationLaunchShortcut findTypes Exception Java Application Launch Shortcut find Types,good
+Bug Timeout exception exiting program caused block,bad
+Bug toString add format template String,good
+Bug JUnit test failures AddUnimplementedMethodsTest Add Unimplemented Methods Test,good
+Bug implementation Don swallow IllegalStateException ASTprovider Illegal Exception,bad
+Bug organize imports Add add compliance,bad
+Bug quick assist nls tooling IAE Create field quick assist properties editor,bad
+Bug Java project wizard nesting workspace,good
+Bug hovering JavaDoc Navigation broken spaces URL Java Doc,bad
+Bug RenameTypePerfAcceptanceTests testCold fails Rename Type Perf Acceptance Tests test Cold,bad
+Bug JUnit Opening test classes JUnit view leads Method Opening test warning,bad
+Bug Reverted latest change IntroduceParameterObjectProcessor test failure Introduce Parameter Object Processor,good
+Bug JavaCore create IFile full checks Java Core,good
+Bug JarExporter Sync GILQD Jar Exporter,bad
+Bug Ctrl outline work file editor read,bad
+Bug quick assist Quick remove block,good
+Bug quick qualified enum constants labels,good
+Bug NPE org eclipse jdt internal javaeditor JavaEditor getSignedSelection Java Editor Signed Selection,bad
+Bug call hierarchy Remove Hierarchy scope Call Hierarchy,good
+Bug Unused imports prevent execution,bad
+Bug quick NPE quick array fields,bad
+Bug misc Dialogs remembering location open correct monitor,bad
+Bug performance performance tests measure,bad
+Bug render Javadoc view Open Declaration tooltip image link,good
+Bug Jar export export java project jar manifest file,good
+Bug build path project existing sources workspace,bad
+Bug hashcode equals Generated equals invalid Object scope,bad
+Bug implementation useless statement getAutoEditStrategies Auto Edit Strategies,good
+Bug clean code style qualify field method parameter,good
+Bug quick Add missing Override suggestions,bad
+Bug Won export files jar,good
+Bug Delete key Quick Outline text box deletes text editor,bad
+Bug type wizards NewPackageWizardPage isCreatePackageDocumentation API Wizard Create Documentation,good
+Bug nls tooling Messages java messages properties cases,good
+Bug content assist Suspected regression CodeCompletionPerformanceTest testApplicationWithParamterGuesses test Code Completion Performance Test test Application Paramter Guesses,good
+Bug misc Javadoc view stays empty browser widget,good
+Bug Misspelling field UndoManager fOperationHistroy Undo Manager Operation Histroy,good
+Bug content assist Overriding content assist suggestion closing brace generates invalid code,bad
+Bug clean Clean doesn work warnings suppressed,good
+Bug preferences Disabling enabling folding small file takes,bad
+Bug refactoring preview bigger bigger,bad
+Bug Deadlock arised calling JDIDebugModel createMethodEntryBreakpoint JDIDebug Model create Method Entry Breakpoint,bad
+Bug Hover NPE Annotation visible classpath,bad
+Bug Create Jar fails warning jar read,bad
+Bug type hierarchy NPE type hierarchy view refactoring method,bad
+Bug jar exporter export JAR project folder project workspace,good
+Bug JUnit JUnit Test wizard confusing test,good
+Bug nodes missing Java Model Synchronize view,bad
+Bug JUnit sign Eclipse path NPE Classpath Variables preferences,bad
+Bug build path NPE attaching source JAR,bad
+Bug Confirm Delete dialog Delete subpackages focus,good
+Bug implementation NPE DocumentAdapter Document Adapter,good
+Bug misc deadlock PreferencesAdapter firePropertyChangeEvent Preferences Adapter fire Property Change Event,good
+Bug typing Automatically close brace work properly,bad
+Bug nls tooling Refactoring removes comments properties message key,bad
+Bug explorer doesn inform user filters filter filters element,good
+Bug explorer working sets dnd sorted drop target,good
+Bug hovering Support showing Javadoc JavaFX properties Java,bad
+Bug type hierarchy Widget disposed error type hierarchy computation,good
+Bug RenameType Refactoring detected Rename Type,good
+Bug quick assist exchange operands unavailable infix,good
+Bug preferences Accept jsr build target,good
+Bug render method content assist adornment,bad
+Bug JUnit Rerun failed work JUnit,good
+Bug NLS JavaEditor nlsed string job Java Editor,good
+Bug NPE context Java Editor build path,good
+Bug PropertiesFileQuickAssistTest testRemoveProperty testRemoveProperty failed Properties File Quick Assist Test test Remove Property test Remove Property,bad
+Bug call hierarchy Refresh view selection empty,good
+Bug explorer Remove filters Explorer removes filters,good
+Bug JUnit test method cut,good
+Bug build path VariableCreationDialog misleading layout Variable Creation Dialog,good
+Bug Refresh Filter problem NullPointerException entering blank JAR selection dialog Pointer Exception,bad
+Bug hovering Javadoc link doesn work attached info java,good
+Bug model api Lambda IType API problems isLambda getElementName returns Lambda Element,good
+Bug reorg Copy action add copy prefix,bad
+Bug jar exporter save runnable jar export ant script relative saves eclipse program folder workspace,good
+Bug compare NPE opening compare editor,good
+Bug syntax highlighting Constructor method syntax highlighting inconsistent,good
+Bug ClassCastException Java Search working Exception,good
+Bug Types Refresh adds list entries java file browsing,good
+Bug JUnit Test wizard Browse,good
+Bug incorrect progress message search view,bad
+Bug remove workaround code bug,bad
+Bug implementation IOOBE OptionalMessageDialog buttonPressed Optional Message Dialog button Pressed,good
+Bug preferences intuitive tab order editor preferences dialog,bad
+Bug Failing test TypeHierarchyTest testHierarchyWithWorkingCopy TypeHierarchyTest java Type Hierarchy Test test Hierarchy Working Copy Type Hierarchy Test,good
+Bug ccp Don select extension file paste,bad
+Bug quick Failures TypeMismatchQuickFixTests IProblem ReturnTypeMismatch Type Mismatch Quick Tests Type Mismatch,good
+Bug quick assist AIOOB exception Convert anonymous creation,bad
+Bug build path Validating Javadoc url,good
+Bug compare Invalid thread access JavaMergeViewer extracting method Java Merge Viewer,good
+Bug JUnit Test JUnit,bad
+Bug content assist Don create proposal computer sessionEnded Problem jdt TemplateProposalComputer closing Editor session Ended Template Proposal Computer,good
+Bug build path javadoc location changed domain,good
+Bug Inconsistent behavior virtual source folders,good
+Bug JUnit Initialize JUnit container JUNIT doesn work bundle info,good
+Bug implementation nls tooling DBCS Find Broken Externalized Strings handle constants CJK Ext,bad
+Bug JUnit Test failure TestRunSessionSerializationTests testFailures Test Session Serialization Tests test Failures,good
+Bug navigation Java file opens text selected,bad
+Bug quick Infer Type Arguments,bad
+Bug javadoc hovering Rendered Javadoc strip,bad
+Bug preferences Restore Defaults duplicates list entries,bad
+Bug preferences Mark Occurences enablement adhered,good
+Bug preferences recommendations settings annotation based analysis enabled,good
+Bug search view click type open search,good
+Bug Adding packages update Java Browsing view browsing,good
+Bug breadcrumb info java,good
+Bug refactoring clean locked dialogs repeated Undos Java editor,bad
+Bug hovering Report fallback mode Javadoc view hover SWT Browser widget,good
+Bug Java Editors preference externalized values constant,good
+Bug JUnit DBCS JUnit URL CJK Extension clipboard,bad
+Bug typing Smart quotes problem,bad
+Bug Sort Members IAE Comparison method violates general contract,good
+Bug preferences Validate syntactic correctness annotation option settings,good
+Bug IResource setDerived IProgressMonitor IResource setDerived Derived IProgress Monitor Derived,bad
+Bug navigation JavaElementImplementationHyperlink work method declarations Java Element Implementation Hyperlink,good
+Bug Minor cleanup JUnitLaunchConfigurationTab JUnit Launch Configuration Tab,good
+Bug working sets Assign Working Explorer Top Level Elements Projects NPE,good
+Bug misc Enabling mark occurences doesn work,bad
+Bug Update ImportOrganizeTest FUP bug bug Organize Test,good
+Bug implementation IllegalStateException reading spelling dictionary Illegal Exception,bad
+Bug nls tooling Improve Properties file key navigation dialog multiple references,good
+Bug javadoc export javadoc locale argument,good
+Bug Test failures SurroundWithTests AllAllRefactoringTests Surround Tests Refactoring Tests,bad
+Bug preferences Add options code formatter expose constant bug,good
+Bug refactoring Refactoring warning modifying derived resources,good
+Bug quick Add unimplemented methods add methods top hierarchy,good
+Bug syntax highlighting syntax coloring enum type,good
+Bug Encoding Support Java editor broken,good
+Bug hovering NPE JavadocHover annotation primitive type Javadoc Hover,good
+Bug Handle TypeParameter annotations change modifiers Type Parameter,good
+Bug jres Execution Environments preference updated JRE addition,good
+Bug Source hover affordance text black,bad
+Bug Update callers ASTNodes getType VariableDeclaration handle type inferred lambda parameter Type Variable Declaration,good
+Bug Wrong capitalized filters message search,bad
+Bug projection ProjectionViewer Toggling segmented projection mode fail Projection Viewer,good
+Bug clean Save Actions doesn add override annotation method implementations Java,good
+Bug call hierarchy Selecting element callee hierarchy reveals wrong editor location,good
+Bug Project Explorer ExtensionState applied Extension,bad
+Bug spell checking Spell check range,good
+Bug actions Menu bar Navigate enabled popup,good
+Bug Extract merge string literal escaping,bad
+Bug Internal code ICompilationUnit applyTextEdit ICompilation Unit apply Text Edit,bad
+Bug type wizards Main Method Stub Check Box Wizard Stays Checked Time Loads,good
+Bug nls tooling positives navigating key properties file editor Java editor,good
+Bug Effects SuppressWarnings unchecked broader Eclipse javac Suppress Warnings,bad
+Bug JUnit JUnit library container resolve binary imported org hamcrest core,good
+Bug Jobs longer responsive pressing ctrl,bad
+Bug content assist Missing check,bad
+Bug NPE FileSpec File Spec,bad
+Bug implementation JavadocHover logs incomplete message Javadoc Hover,good
+Bug Lambda code formatter options,good
+Bug hovering exist hovering Javadoc method fake,bad
+Bug NPE content assist compare,bad
+Bug perfs Comments applied JDT Text performance tests obsolete,bad
+Bug hashcode equals feature working hashcode equals Wizard blocks,good
+Bug perfs Comments applied JDT performance tests obsolete,bad
+Bug Clean Refactoring report file caused exception Eclipse code formatter crashes exception handling character encoding,bad
+Bug typing Indentation broken enhanced loop,good
+Bug Add implemented methods type annotations,good
+Bug quick quick assist Replace integer literals relevance constants,good
+Bug compiler Bad syntax error insert IdentifierOrNew missing semicolon Identifier,good
+Bug spell checking preferences Spell checking works report problems type enabled,bad
+Bug preferences Add support target compiler preference,good
+Bug navigation Status loses annotation text selection,good
+Bug actions Override Implement dialog size position saved,good
+Bug key binding Shortcut Open Declaration doesn context menu Java Editor,good
+Bug code tag prepended space,good
+Bug hovering Spelling quick Ignore current session update editor hover,good
+Bug typing Smart replace selection,bad
+Bug ccp Canceling file copy operation error,bad
+Bug JUnit Importing URL doesn connection working doesn cancel,good
+Bug quick Quick fail update method comment,bad
+Bug Test failures PackageJavadocTests Javadoc Tests,good
+Bug typing IndentAction Pressing Tab document IAE Indent Action,good
+Bug implementation Leak Java Editor preference listener SmartTypingConfigurationBlock Smart Typing Configuration Block,good
+Bug Browser Perspective project doesn project view,bad
+Bug build path button Inclusion Exclusion Patterns wizard work,good
+Bug build path editing user library properties drops classpath entry attributes,good
+Bug common navigator Java model hiding parent folders sync view,bad
+Bug JUnit Opening JUnit view loads preference,good
+Bug misc Editor create working copy deleted resource,good
+Bug preferences JUnit newly launched test JUnit views stored,good
+Bug Javadoc View inserts wrong asterisk link linebreak,bad
+Bug JUnit view showing BeforeClass exception single test,bad
+Bug working sets Assign Working pre fill selected elements,bad
+Bug extract local Extract Local ArrayIndexOutOfBoundsException Array Bounds Exception,bad
+Bug implementation NPE editing javadoc comment,bad
+Bug Keybinding focus javadoc editor,bad
+Bug templates template block,bad
+Bug Ctrl Filters persistent view menu,good
+Bug OpenAction select ITypeParameter Open Action IType Parameter,bad
+Bug actions Add marks editor unsaved,bad
+Bug compare Quick views stay compare editor,good
+Bug render Strange rendering problem abbreviation pattern,good
+Bug refactoring Handler conflicts refactoring previews,bad
+Bug quick assist extract method Calling extract method selection,good
+Bug Fup bug add formatter option number blank lines groups,good
+Bug Bindings containsTypeVariables ITypeBinding type unused code Type Variables IType Binding,good
+Bug Deleting member Members view working,good
+Bug ImagesOnFileSystemRegistry thread safe Images File System Registry,good
+Bug content assist Overwrite mode rendered filtering proposals,bad
+Bug rename Rename method fails create method handle,bad
+Bug ltk PerformChangeOperation ISchedulingRule Perform Change Operation IScheduling Rule,good
+Bug working sets Projects label starting locale,good
+Bug open type Open Type dialog JRE libraries identical text,bad
+Bug quick assist Join declaration quick removes comments declaration assignment,good
+Bug refactoring DynamicValidationStateChange valid minutes Dynamic Validation Change,good
+Bug search wrong condition warning references inlined constant,good
+Bug quick Wrong quick fixes type visible,bad
+Bug Replace conditional removes comment,good
+Bug Java Project wizard Java Compiler property misleading,good
+Bug content assist Missing Getter Setter code assist proposals,bad
+Bug content assist Proposal replace leading chars selection,bad
+Bug javadoc wizard Generating Javadoc CUs UTF names fails Windows,good
+Bug NPE ASTProvider reconciled,good
+Bug perfs Comments applied performance tests obsolete,bad
+Bug hashcode equals Remove unnecessary warning hashcode equals generator,good
+Bug bidi processing glitch CodeTemplateContextType Code Template Context Type,good
+Bug explorer context menu empty selection,bad
+Bug Problem hover Link text cut OSes fonts,good
+Bug build path Compiler Compliance follow Execution Environment,good
+Bug Properties File Editor doesn QuickDiff hovers Quick Diff,good
+Bug TextMergeViewer createSourceViewer SourceViewer Text Merge Viewer create Source Viewer Source Viewer,good
+Bug Support source attachment encoding classpath entry level,good
+Bug templates SWT proposal computer findType call find Type,good
+Bug Assertion failed NLS search nls search,bad
+Bug quick assist Pick selected string tests,bad
+Bug refactoring Rename Method refactoring breaks lambda,good
+Bug working sets click add element working,good
+Bug Change CommonDropAdapter method call Common Drop Adapter,good
+Bug typo modfier code,bad
+Bug code templates Java Code Templates properties Restore Defaults removes nodes,good
+Bug rulers Quick invoked warning error vertical ruler,good
+Bug working doesn Working List,bad
+Bug dnd Element reordering DnD format field comments,bad
+Bug misc Mark Occurrences exceptions types inconsistent,good
+Bug Editor icon problem decoration instance,bad
+Bug Checkbox wrongly enabled Clean preference,good
+Bug syntax highlighting Highlight enclosing brackets massive performance problems,good
+Bug Configure Working Sets Dialog sort checkbox dialog font,good
+Bug Constructor inlining produces illegal result,bad
+Bug search NPE search method declaration,bad
+Bug build path Dialog telling output folder deletion improved,good
+Bug search Inexact Type Arguments filter showing filtered,good
+Bug misc Quick Outline override indicators decorator disabled,good
+Bug navigation hyperlink modifier key,good
+Bug compare wrong caret side,bad
+Bug jar exporter Runnable JAR Export problem special characters included JAR JAR filenames,bad
+Bug browsing JavaBrowsingPart clearing fPreveiousSelectionProvider Java Browsing Preveious Selection Provider,bad
+Bug longer responsive sorting search matches,good
+Bug quick visibility issues,good
+Bug performance Opening file editor compute overriding indicators,bad
+Bug type hierarchy Exception occurred listener Type hierarchy change notification,good
+Bug breadcrumb Java projects simple projects,good
+Bug Javadoc content content assist info window constructors,bad
+Bug ASTs JLS,good
+Bug extract method CCE ExtractMethodRefactoring createMethodBody Extract Method Refactoring create Method Body,good
+Bug formatting comment formatter leaves whitespace comments,bad
+Bug type wizards generate main method stub ignores generate comments setting,good
+Bug content assist Context completion method,good
+Bug ltk Refactoring history workspace refactorings year,bad
+Bug hover message bookmarks overview ruler,bad
+Bug CheckedListDialogField unconventional method setting table style Checked List Dialog Field,good
+Bug bug breaks JDT Refactoring test,good
+Bug explorer Configure strange working assignment dialog,good
+Bug javadoc wizard Generate Javadoc generated javadoc arguments temp file,good
+Bug encapsulate field Encapsulate field introduces methods compilation errors,bad
+Bug Javadoc method type parameters generated Ignore method type parameters disabled,bad
+Bug change method signature SWTException Widget disposed Change method signature,bad
+Bug misc File Editor source message wrap,good
+Bug clean Clean wizard space ugly,good
+Bug Source tabs cleared project closed,bad
+Bug Fails Explorer Java project,bad
+Bug search search button disabled Search checkboxes cleared,good
+Bug Java Search actions shouldn enabled folder selected packages view,bad
+Bug misc Wrong message displayed opening file classapth,bad
+Bug build path user library dialog select JAR workspace,good
+Bug Bug NLSSearchQuery NLSSearch Query,good
+Bug quick Invalid thread access quick,bad
+Bug build path Java Project dialog radios parent,bad
+Bug content assist Applying proposal content assist history unresolved type,good
+Bug Graphics Scaling issues high DPI displays,bad
+Bug navigation Explorer,bad
+Bug content assist Wrong post qualification constructor anonymous type completion,good
+Bug introduce indirection wizard wrong path classes target,good
+Bug extract constant Refactoring pop selected string annotation,bad
+Bug Unable reference virtual folder Java source attachment path,good
+Bug move method Move refactoring produce duplicate methods refactoring,bad
+Bug inheritedoc consistently rendered,bad
+Bug hovering hovering multiple hyperlinks multiple location build path,bad
+Bug correct indentation messes comment boxes,bad
+Bug nls tooling flagged missing NLS key,bad
+Bug Enable compiler compliance,good
+Bug refesh JavaElementSorter Java Element Sorter,bad
+Bug Remove duplicate creation comparator WorkingSetConfigurationDialog Working Configuration Dialog,good
+Bug file incorrect content,bad
+Bug extract method Refactor Extract Method statement NPE,good
+Bug Clicking Cancel External Annotations Attachment dialog deletes existing,good
+Bug templates TemplateProposals API marked deprecated Template Proposals,bad
+Bug content assist Constructor completion ignores type completing type arguments,bad
+Bug preferences content assist Auto activation delay mention unit time,bad
+Bug reconciling Organize Imports selected error,bad
+Bug ltk file folder exist empty input resource rename dialog,bad
+Bug compare Compare local history reverts dirty editor,bad
+Bug working sets explorer Working sets resorted,good
+Bug NLS tool values displayed correctly,bad
+Bug ccp dnd Minor Copy Paste issues,bad
+Bug JUnit Launching JUnit view dirty editors save prompts,good
+Bug preferences clean ICleanUpConfigurationUI parent Composite excess margins IClean Configuration,good
+Bug misc Editor opened sync resource refresh action,good
+Bug StringMatcher bug matches String Matcher,good
+Bug add API IProblem isInfo Info,good
+Bug search broken code SearchLabelProvider getParticipantImage Object Search Label Provider Participant Image,good
+Bug navigation Open Type hyperlink type,good
+Bug explorer broken code PackageExplorerContentProvider findAddedElement IJavaElementDelta Explorer Content Provider find Element IJava Element Delta,good
+Bug toolbar button tool tips read screen reader,bad
+Bug Press focus work spell checking hovers,bad
+Bug common navigator Drag Java object Project Explorer Explorer assertion failed,good
+Bug RepositoryProvider isShared problems closed projects API Repository Provider Shared,good
+Bug browsing implementation NPE starting eclipse Java Browsing Perspective,bad
+Bug ITypeBinding canAssign aware type boxing IType Binding Assign,bad
+Bug compare common navigator duplicate model compare folder source folder,bad
+Bug navigation Open Implementation hyperlink overridable methods,good
+Bug nls NLS key tab search dialog window,bad
+Bug quick assist Remove extra parenthesis removes comment,good
+Bug type hierarchy invoking Quick Type Hierarchy declarations yields error,good
+Bug refactoring Extract Local Variable Constant don find matching invocations methods,bad
+Bug ltk DeleteResourceChange resource deleted Delete Resource Change,good
+Bug compare NPE log opening Java compare editor breadcrumbs enabled,bad
+Bug ltk junit framework ComparisonFailure Unexpected failure Comparison Failure,bad
+Bug ccp ReorgPolicies canEnable methods Reorg Policies Enable,bad
+Bug inline Inline constant IAE bounds,bad
+Bug search Custom search hierarchically java search view,good
+Bug inline quick assist Delete key work Inline local variable,bad
+Bug Config dialog Generate Doc Wizard bad,bad
+Bug build path nested source folder build path rendered lib icon,bad
+Bug Source Hover oszillates,bad
+Bug Java member types implicitly consistent icons,good
+Bug Add quick Duplicate methods error,good
+Bug type hierarchy Type Hierarchy View button bar painting issues workspace startup,good
+Bug jar exporter ANT file Jar Jar option relative path jar rsrc loader zip,good
+Bug Javadoc keywords settings longer work Java Editor,bad
+Bug Mark Occurrences annotation text interesting Tooltip Description,bad
+Bug clean memory error Source Cleanup,bad
+Bug Unable ignore files filters,bad
+Bug JUnit view leaks Colors,bad
+Bug hovering Javadoc hovers don annotations constructors,good
+Bug clicking Types view refreshes decorators,bad
+Bug comparator errors files,bad
+Bug build path Dialog extend classpath variable slow,bad
+Bug perfs Regression Rename method overloading test,good
+Bug StringMatcher match extension String Matcher,good
+Bug search Search result filters persisted,good
+Bug type wizards Java wizard incorrect warning message,good
+Bug compare Toggle comment noisy diff Compare editor,bad
+Bug content assist Code conpletion doesn choose correct collection,bad
+Bug nls tooling Hyperlink properties file key doesn work projects,good
+Bug navigation Open Implementation work methods seamlessly,bad
+Bug hovering text Javadoc hover view visible Ubuntu,bad
+Bug create paste Paste Working work,good
+Bug clean Internal error configured profiles multiple projects,bad
+Bug performance Regression performance test PackageExplorerColdPerfTest testOpen Explorer Cold Perf Test test Open,good
+Bug preferences syntax coloring Preview incorrect parameter variables setting,good
+Bug breadcrumb Opening file breadcrumb retarget status,good
+Bug toString dialog center widgets String,good
+Bug Missing styling Java project wizard,bad
+Bug implementation Java editor disposes StyledText caret image Styled Text,bad
+Bug common navigator Java Elements content extension Java projects Project Explorer,good
+Bug actions Javadoc view Open Attached Javadoc External Browser open URL,good
+Bug quick Extract field access checked local variable,good
+Bug Classfile editor source attachment option classes folders,good
+Bug preferences Incorrect enablement Inline blocks preference option,bad
+Bug Test failure org eclipse jdt tests refactoring ccp CopyToClipboardActionTest testEnabled Copy Clipboard Action Test test Enabled,bad
+Bug outline applying filters freezed ide large files filters,good
+Bug search JavaElementLine crashes ArrayIndexOutOfBoundsException EOF encountered Java Element Array Bounds Exception,good
+Bug move method Move single function interfaces work,bad
+Bug ccp progress monitor rename prompt copy pasting file,bad
+Bug navigation Word complete,bad
+Bug junit interesting warning JUnitPropertyTester JUnit Property Tester,good
+Bug convert anonymous store settings,good
+Bug API needed Combo items visible,good
+Bug CVS decorators broken JavaElementResourceMapping Java Element Resource Mapping,good
+Bug inline Refactor Inline fails parenthesize replaced arguments,bad
+Bug JUnit JUnit view active test,good
+Bug render External chained jars correctly displayed,bad
+Bug call hierarchy Wrong behavior Expand Constructors multi selection parent child,good
+Bug encapsulate field encapsulate field refactoring fails splitted array type,good
+Bug navigation Java element hyperlink imports declarations,bad
+Bug JUnit JUnit JDT installed dropin,good
+Bug quick Remove modifier solution constants interfaces,good
+Bug preferences JRE compiler compliance inconsistency visible,good
+Bug build path File Java Project identifying source files correctly,bad
+Bug open multipage editor Invalid thread access exporting jar,bad
+Bug organize imports Organize imports perf test loop warm,good
+Bug content tree view projects folders export jar read screen readers,bad
+Bug refactoring pull destination type creates bogus nested type,bad
+Bug quick assist quick Relevance externalization quick fixes empty selection,bad
+Bug dnd ccp Explorer moving read linked resources project confirmation,bad
+Bug preferences Outgoing change preferences change,bad
+Bug ClassCastException selecting java browsing perspective Exception,bad
+Bug quick bad proposal modifier constructors classes,good
+Bug Source Folders Sort Java Packages Simple Folders,bad
+Bug rename Undo place refactoring animates info popup,good
+Bug introduce parameter NPE Introduce Parameter Object Build path,good
+Bug Selected resources scope disabled Enclosing projects,bad
+Bug misc incorrect reconciling Java Outline,good
+Bug implementation failure launching headless,bad
+Bug JUnit Previous Failed Test buttons enabled Skipped Tests,bad
+Bug wizards check filtered resources,bad
+Bug JavaModel object handled JavaNavigatorLabelProvider Java Model Java Navigator Label Provider,good
+Bug Classpath variable initialization doesn fail silently,bad
+Bug preferences whitespace characters toggled whitespace characters dialog opened,bad
+Bug quick Change type offer matching type type arguments,bad
+Bug implementation Compiler error prevents development,bad
+Bug content assist ArrayIndexOutOfBoundsException thrown SignatureUtil getUpperBound Array Bounds Exception Signature Util Upper Bound,good
+Bug API Add getBytes IClassFile Bytes IClass File,good
+Bug Introduce Parameter dialog table parameters scroll view,good
+Bug spell checking NPE SpellCheckEngine resetUserDictionary shutdown Spell Check Engine reset User Dictionary,good
+Bug clean work preview,bad
+Bug explorer JDT error behavior link editor option opening,good
+Bug push search Referencing problem PushDownRefactoringProcessor Push Refactoring Processor,good
+Bug explorer Working Assignments dialog longer sorted created,good
+Bug typing Pasting contents string string concatenation doesn work string empty string,good
+Bug quick assist Assigning parameter existing field incomplete linked mode,good
+Bug Adding JUnit quick IAE,good
+Bug misc save participants called Save,good
+Bug Smart cursor positioning java names don work CONSTANT NAMES,bad
+Bug preferences implementation Encoding problem JRE library preference dropdown box,good
+Bug save actions Format edited lines Save formats lines ASCII characters,good
+Bug search fails find call sites varargs constructors,bad
+Bug JVME exist JavaElementNameComposer appendTypeParameterLabel Java Element Composer append Type Parameter Label,good
+Bug quick unused type parameter,good
+Bug compare compare holds deleted compilation unit,good
+Bug search NPE searching property key,good
+Bug working sets Assign Working Sets dialog working,good
+Bug JUnit View open source test classes fragments,good
+Bug preferences Explain Ctrl modifier code assistant,bad
+Bug compare Clicking structure view breaks compare editor viewers,good
+Bug preferences analysis fields,good
+Bug refactoring enhance Javadoc RefactoringWizard performFinish Refactoring wizard remains open enabled buttons refactoring operation completes Refactoring Wizard perform Finish,good
+Bug actions Assign Working Sets working sets,good
+Bug Java Model Exception Javadoc view element deleted,bad
+Bug search find constant references files source attached,bad
+Bug searching files failes,bad
+Bug Add compliance compiler compliance list,good
+Bug preferences Provide strictly compatible JRE problem severity,good
+Bug Export runnable jar wizard documented,bad
+Bug working sets Reveal changed element Assign Working Sets,good
+Bug Incorrect Javadoc org eclipse ltk core refactoring Change,bad
+Bug typing Tabs messed,bad
+Bug Strings insertMarks drops directional punctuation characters StyledString insert Marks Styled String,good
+Bug explorer PackageExplorerContentProvider executeRunnables Collection change event order Explorer Content Provider execute Runnables,good
+Bug open type matching range bold pattern ends space,good
+Bug jar exporter Destination starting announced relative workspace,good
+Bug Search declarations working sets fail working,good
+Bug hovering Javadoc Viewer doesn display link properly text whitespace,bad
+Bug rename button clipped Rename dialog,bad
+Bug refactoring enablement precondition checking Extract refactorings packages names annotations,good
+Bug quick Quick fixes linked mode editor jump wrong position,good
+Bug quick Quick loop bare local variable argument field,good
+Bug content assist preferences Favorites grow list resize,good
+Bug nls tooling Rename properties key field adds additional,bad
+Bug hovering Hover labels local variables,good
+Bug JAR export explain problem,good
+Bug Full rebuild asked compiler options changed workspace empty,bad
+Bug misc Update conflicts dialog appears save save longer,bad
+Bug EditorMgmt remove IURIEditorInput Editor Mgmt IURIEditor Input,good
+Bug preference hovering Externalized String hover modifier key Hyperlink modifier,good
+Bug AlreadyExistsDialog initializeComposite clones Dialog createDialogArea Exists Dialog initialize Composite create Dialog Area,good
+Bug quick assist extract number quick assist doesn replace occurrences,good
+Bug breadcrumb unfocused dropdown closed leaving workbench window,bad
+Bug preferences link Java Editor pref honor dialog font,good
+Bug inline inlining invocations method work method enum type,good
+Bug implementation Deleting source folder leaks file handle,bad
+Bug breadcrumb Drop stays open GTK tool bar drop menu opened,good
+Bug compare createStructure called times sides opening compare editor create Structure,good
+Bug AIOOBE IdentityHashSet getInsertionIndex Identity Hash Insertion,good
+Bug patch Layout RefactoringStatusDialog standard Refactoring Status Dialog,good
+Bug working sets action working selected,bad
+Bug actions Error open file,bad
+Bug JavaColorManager initialized thread Java Color Manager,good
+Bug formatter JavaDoc formatter wrongly indent tags description Java Doc,bad
+Bug rename Refactoring renaming exists error upper change,good
+Bug call hierarchy Counter color,good
+Bug navigation Quick outline view reproduces StackOverflow key presses filter Stack Overflow,bad
+Bug Unable encoding source attachment,good
+Bug improve StubCreator Stub Creator,good
+Bug build path Add project screen projects,good
+Bug Extract Superclass Pull Push window cuts text items selected,good
+Bug encapsulate field Encapsulate field parameter prefix code style,good
+Bug JUnit RunWith Parameterized don navigate,bad
+Bug Java Type Indicator decorator image leak,good
+Bug jar exporter Runnable Jar File Export repacks referenced libraries warning disabled,good
+Bug explorer Assign Working Sets dialog preserve check box setting,good
+Bug SearchLeakTestWrapper testRemoveSearchQueries fails build machine Search Leak Test Wrapper test Remove Search Queries,good
+Bug Compiler Errors Warnings preference doesn resize,good
+Bug move method NPE move method refactoring,good
+Bug call hierarchy Remove View fails grandchild progress,good
+Bug ASTRewrite extra dimensions lost,good
+Bug rename Refactor rename editor slow matches,good
+Bug explorer hides jars java resources working selected,bad
+Bug working sets explorer Newly created incompatible working sets Explorer,good
+Bug KeyBindings Toggle Mark Occurrences shortcut broken Key Bindings,good
+Bug extract method replace duplicates span method body,good
+Bug quick Conversion Lambda appearing,good
+Bug breadcrumb Java resources jar opened,good
+Bug JUnit DBCS JUnit generate method CJK extension,bad
+Bug typo CodeCompletionPerformanceTest createTypeHierarchy Code Completion Performance Test create Type Hierarchy,good
+Bug reconciling JavaMultiPassReconciler removes annotations Java Multi Pass Reconciler,good
+Bug typing Pressing enter opening curly brace closes curly brace repeatedly,bad
+Bug preferences SWTException OptionsConfigurationBlock Widget disposed Options Configuration Block,bad
+Bug misc Breakpoint icons disappear,bad
+Bug NPE deleting resource,bad
+Bug Search Search dialog loses bottom buttons Solaris,good
+Bug hovering Problem hover Configure Problem Severity project specific Javadoc preferences,bad
+Bug quick assist RFE Quick statements Enum,good
+Bug Unclear directions Java Project wizard,good
+Bug preferences warning missing resources wrong category,good
+Bug Tomcat web app root attribute,good
+Bug search Difficult Select Limit options Search dialog keyboard,good
+Bug Preference taller screen,bad
+Bug misc Editor computing AST concurrently,bad
+Bug JAR Packager Path exported resource wrong src folder project,good
+Bug elements removed hierarchical search,good
+Bug quick Configure Problem Severity quick,good
+Bug toString Generator wrong suffixes prefixes String,bad
+Bug Replace org eclipse jdt launching jreContainerMarker JavaRuntime JRE CONTAINER MARKER jre Container Marker Java Runtime,good
+Bug Deadlock JavaWorkingSetUpdater Java Working Updater,good
+Bug ccp Paste enabled jars,good
+Bug clean Serial,good
+Bug build path Output folder source folders stripped project established IDE,good
+Bug Info views linking sync,good
+Bug hovering Hover popups allocate sufficient amount space,bad
+Bug Formatter Wrap aggressive qualifiers,bad
+Bug Bug comment mapper Grabs node Javadoc,bad
+Bug Activating working updaters bundle org eclipse jdt encountered problem,bad
+Bug preferences Mark Occurences Pref Link,good
+Bug quick NPE ASTNodeFactory method type missing ASTNode Factory,good
+Bug Browsing remains types deleted,bad
+Bug change method signature Preview incorrect varargs parameter,good
+Bug javadoc Open Attached Javadoc adapt Javadoc anchor format,good
+Bug quote problems property files JDT,bad
+Bug OpenTypePerfTest testWarmException perf tests reliable Open Type Perf Test test Warm Exception,good
+Bug mark occurrence search Mark occurrences reports based numbers actual numbers number rulers starts,bad
+Bug type hierarchy view honor abbreviation setting,good
+Bug nls tooling TVT externalized string Externalize Strings panel,bad
+Bug Packages View flickering loosing expanded logical selected hierarchical layout,good
+Bug NPE JavaEditor isMarkingOccurrences Java Editor Marking Occurrences,bad
+Bug explorer doesn work Synchronize view open java file classpath,good
+Bug projection NPE ProjectionViewer setRangeIndication Projection Viewer Range Indication,bad
+Bug Incorrect operation order jarpackager,bad
+Bug build path Source attachments wrong automatically libraries,good
+Bug JUnit CCE opening editor,good
+Bug JUnit support disabled launched,bad
+Bug quick duplicate exception add,bad
+Bug Refactor rename popup border black bottom missing,good
+Bug ImageDescriptorRegistry hookDisplay SWT Invalid thread access Image Descriptor Registry hook Display,good
+Bug JavaElementAdapterFactory loads Team Java Element Adapter Factory,good
+Bug working sets Assign Working Sets dialog forgets settings adding moving working,good
+Bug ltk LTK RefactoringWizardOpenOperation opens window window title text Refactoring Wizard Open Operation,bad
+Bug implementation Reconciling robust,bad
+Bug RenameTypePerfAcceptanceTests aka Rename Control bogus Rename Type Perf Acceptance Tests,bad
+Bug templates JavaContext sets wrong completion length adding imports Java Context,good
+Bug common navigator Dragging FileTransfer closed project valid drop File Transfer,good
+Bug opening editor maximum allowed reached result exception editor opened,good
+Bug Save slow burns cycles Project Explorer,bad
+Bug call hierarchy Clearing history clear status bar view,good
+Bug content assist filter setters fields,bad
+Bug content assist Paramter guessing slow,bad
+Bug call hierarchy Improve View Menu Preferences,good
+Bug common navigator Project Explorer refresh adding removing library project,good
+Bug compare Structured compare editor tree doesn properly format qualified types,bad
+Bug content assist Pressing Semicolon commit content assist bypasses smart semicolon,bad
+Bug infer type arguments NPE InferTypeArgumentsConstraintsSolver getNonTaggingInterfaces Infer Type Arguments Constraints Solver Tagging Interfaces,good
+Bug quick Expression unchecked conversion Replace quick insert wild cards compile error,bad
+Bug hover preference change background color debug hover popup,bad
+Bug generate constructor Generate constructor fields globally sets access modifier,bad
+Bug typing Indentation String literal split formatter,good
+Bug remove Search extension,good
+Bug content assist Unnecessary content assist popup decimal,bad
+Bug Code folding nudge,good
+Bug NPE identifier browse button,bad
+Bug Manifest Editors multi select extension tab plug editor,bad
+Bug NPE opening site xml editor,bad
+Bug Plug Dependencies View System packages distinguished framework packages,bad
+Bug Failing LocalTargetDefinitionTests bundle JDT feature Local Target Definition Tests,good
+Bug Export missing Product exe,good
+Bug Target Platform pref fully reset Restore Defaults,bad
+Bug Plug detail bad layout linux,bad
+Bug exception opening editing site xml features invalid qualifier strings,bad
+Bug Manifest Editors XMLInputContext erase characters removing nodes XMLInput Context,bad
+Bug Wrong plugin editor opened clicking plugin,bad
+Bug Feature Manifest editors don respect delimiters,good
+Bug feature editor dirty license text editing,bad
+Bug Eclipse samples review wizard incorrect text margins,good
+Bug Extension points dependencies,bad
+Bug Widget disposed error,bad
+Bug launching features pressing select features button features warn user,good
+Bug Exporting plug leaves file javaCompiler args java Compiler,bad
+Bug Extension list filtered tree clear button bad positioned,good
+Bug Building workspace IES target large number plugins takes longer,bad
+Bug NPE Open Schema read schema files,bad
+Bug Invalid warning bundle classpath,bad
+Bug Eclipse logs seemingly useless install bundle error bundle,bad
+Bug Adding extensions plugin manifest editor,bad
+Bug Add Java Search progress dialog,good
+Bug Quick broken Externalize manifest header,good
+Bug API Baseline dialog resize vertically,bad
+Bug Registry View activated plugins,good
+Bug Eclipse launcher incorrect eclipse exe launching Eclipse Application,good
+Bug bin excludes propery update,good
+Bug Calculate button enabled initial add Export,good
+Bug Dependency View update models removed,good
+Bug tooling OSGi Declarative Services template generates invalid MANIFEST,bad
+Bug invalid flagging internal extension points,bad
+Bug product ignore program arguments initializing launch config,good
+Bug PDE Launcher program arguments command arguments,bad
+Bug Feature Wizard aggressive overwriting fields,good
+Bug Polish Remove Remove enabled,good
+Bug Project specific Plug Manifest Compiler properties broken,good
+Bug Validation dialog closes properly,bad
+Bug Eclipse Application launch config fails SWT fragment workspace,bad
+Bug Inappropriate build properties errors built extra classpath jars fail update jar built,good
+Bug Open extension point schema link fails plugin xml editor,good
+Bug manipulator loadConfiguration empty array load Configuration,good
+Bug feature launching choosing features launch counter update filtering,good
+Bug NullPointerException XMLErrorReporter getTextContent Pointer Exception XMLError Reporter Text Content,good
+Bug Wrong dialog enter version number exported,bad
+Bug Pgm Arguments duplicated launching product editor,good
+Bug Plug Dependencies View Fragment dependency,good
+Bug Convert produces warnings build properties existing,bad
+Bug spy improve saving image functionality,good
+Bug spinner column area eclipse app launch config,good
+Bug Amnesia opening manifest JARd plug,bad
+Bug Problem PluginModelManager Plugin Model Manager,good
+Bug Untranslated text RCP mail app,good
+Bug Schema editor disabled,bad
+Bug PDE editor browse type OOME,bad
+Bug Manifest Editors Required Plug ins title missing Dependencies,bad
+Bug target Target Platform brings plugins previous installations,good
+Bug PDE editor tab tooltip fully qualified opened plugin deps view,bad
+Bug NPE opening feature xml feature file,bad
+Bug NPE SourceEntryErrorReporter validate Source Entry Error Reporter,good
+Bug NPE org eclipse pde internal editor plugin DependencyManagementSection Dependency Management,good
+Bug Bidi Elements labels extensions fragment manifest characters order incorrect,good
+Bug Schema Editor Source named Source,good
+Bug range marking constructor method reference,good
+Bug Runtime LIbrary classpath,good
+Bug jars extra classpath mark entries starting ANT variables Errors,good
+Bug Installed metadata group longer spans preference,bad
+Bug Quickfix remove Bundle Activator lazy start,good
+Bug plugin dialog unable cancel operation,bad
+Bug ArrayIndexOutOfBoundsException running scan Array Bounds Exception,bad
+Bug Patch jface text deprecation,bad
+Bug early call modify bundle root leaves WorkspacePluginModelManager initialized Workspace Plugin Model Manager,good
+Bug Plugin Registry view incorrect versions,bad
+Bug error messages don recognize directories,bad
+Bug Feature appears feature selection dialog,bad
+Bug Bundle Localization header validated,bad
+Bug patch feature xml editor Recompute check box dependencies tab stay,good
+Bug config ini generated eclipse launch configuration work target,bad
+Bug validation Java project source output folders Plug Project Wizard,bad
+Bug registry view Disabling Enabling plug refresh icon,good
+Bug RemotePluginTestRunner issue message test plug resolved Remote Plugin Test Runner,good
+Bug Plug Manifest Editor loses dependency addition,bad
+Bug plugin source leaves warning missing src zip,good
+Bug Plug removed Java Search imported source,bad
+Bug target target definition wizard resets contents,bad
+Bug Warnings project importing source folders project exported source,good
+Bug change internal manifest file picked,bad
+Bug Feature manifest file label NPE clicking Dependencies tab,bad
+Bug Regression Plug ins view Find References,good
+Bug Plug wizard defaults biased plug development,bad
+Bug spy NPE active,good
+Bug Shells created launcher buttons wrong parents,bad
+Bug PDE editor improperly process extension points defined fragments,bad
+Bug Plug Dependencies View sorting lost changing presentation mode,bad
+Bug tooling Services label rendered,bad
+Bug Progress reporting API comparison hits,bad
+Bug Compute dependencies feature broken,bad
+Bug hosting eclipse starts update configurator start level,good
+Bug target Broken buttons plug wizard source code locations environment,good
+Bug Schema HTML generator CHKPII errors,bad
+Bug Wizard layout express wasteful,good
+Bug NPE creating project jar org apache oro,bad
+Bug Hyperlink detector working Build source,good
+Bug PDE handle space required bundle version,bad
+Bug existing plugin destroys custom project natures,bad
+Bug Missing border Extensions tab,bad
+Bug Remove unsupported bytecodes preference Luna,bad
+Bug NPE building fragment,bad
+Bug Schema Editors Buttons enabled editor editable,good
+Bug Manifest Editor Opening plugin xml Manifest longer shares editor,good
+Bug target Software site locations don remember included software settings,good
+Bug host plugin presented Automated Management Dependencies Add dialog fragment,bad
+Bug addition extension extension point singleton directive,good
+Bug category file selection dialog displays error dialogs searching,good
+Bug api tooling API parse error MANIFEST naming project,good
+Bug Access Restriction Quickfix referencing imported external plug,good
+Bug Wrong colour parent composite error log view,good
+Bug field disabled,bad
+Bug changing unsupported API tag severity update problems,good
+Bug NPE AbstractSearchResultPage ContentProvider Search references plug Search Result Content Provider,good
+Bug Text wrapped cutted plugins wizard,bad
+Bug target Reloading target platform delta pack synch,bad
+Bug Warning org eclipse pde runtime,bad
+Bug NPE SourceOutlinePage removeAllSelectionChangedListeners Source Outline remove Selection Changed Listeners,good
+Bug Errors creating school plug ins,bad
+Bug NPE PDERegistryStrategy deleting plug ins PDERegistry Strategy,bad
+Bug Schema Editors Global element local attribute identity constraints respected,good
+Bug Organize Manifest Mark internal internal pattern,good
+Bug Source Locations included directories target platform,bad
+Bug Extension point schemas valid Schemas,bad
+Bug Error validating launch config,bad
+Bug Externalize Strings MANIFEST suffix header,bad
+Bug Manifest Editors Selection behaviour wrong delete Extension tree viewer,good
+Bug api tooling Refactoring participants required filters,good
+Bug Clicking Edit Workspace Locked dialog select workspace location,good
+Bug filter error MANIFEST,bad
+Bug Manifest Editors Edit button Extensions disappear,good
+Bug Schema Editors Remove Label Property Icon fields Element Details,good
+Bug plugin xml compare viewer react color,good
+Bug manifest editor content assist additional info wrong status text,bad
+Bug Quickfix Service Export Service,good
+Bug StackOverFlowError selecting Add Required Plugins Target Platform preference Target Definition dialog Content tab Stack Flow Error,bad
+Bug warning messages product editor,good
+Bug target Target definition editor prematurely editing Software Site,bad
+Bug API Errors Warnings severity fishy,bad
+Bug tooling component wizard honour dialog font,good
+Bug External Plug Libraries misses closed project Java Search,good
+Bug doc missing context,bad
+Bug Regression Extension search longer highlighted plugin editor,bad
+Bug RequiredPluginsInitializer implement getDescription Required Plugins Initializer Description,good
+Bug Included Features don Feature Editor Outline,good
+Bug Regression install host,bad
+Bug target Move target button targets moved top,bad
+Bug Feature dependency calculations include,bad
+Bug Feature Editor find feature dependencies correctly,bad
+Bug PDE attempt add external folder classpath,bad
+Bug Rename Bundle SymbolicName context sensitive Symbolic,bad
+Bug Manifest Editor plugin xml source editor syntax coloring confused,bad
+Bug Provide Lightbulb Quick Fixes build properties source,good
+Bug Site Editors NPE DND,bad
+Bug javacVerbose javac Verbose,good
+Bug RCP mail template references existent file,good
+Bug Unexpected confirmation dialog launching,bad
+Bug org eclipse wst xml Plug Manifest Editor unreliable,bad
+Bug empty feature list selected,good
+Bug Launchers Add Required Plug ins acts weird,bad
+Bug Dialog cut High Contrast,bad
+Bug Feature Editor Sorting incorrect,bad
+Bug thread unchecked doesn work Headless Mode application,good
+Bug classpath entries Manifest editor check bundle root,good
+Bug target Cancelling resolution editor closed raises assertion failure,bad
+Bug NPE opening context menu site xml editor source,good
+Bug Target Environment Amnesia,bad
+Bug Launch Eclipse Application clears target workspace determines,bad
+Bug Find unused dependencies ignore packages exported bundle,good
+Bug NPE resetting target platform,bad
+Bug pde fragment wizard doesn transfer host maximum version wizard manifest,good
+Bug PDE Extension Wizard creates bad plugin xml file,bad
+Bug patch Configure Target Platform Quick dependency MANIFEST,good
+Bug select nodes cheat sheet editor,bad
+Bug Manifest Editors Quick Diff Numbers don work build properties editor,good
+Bug Manifest Editors Automated Management Dependencies Title disappears,bad
+Bug DSAnnotationCompilationParticipant performs unnecessary model modification DSAnnotation Compilation Participant,good
+Bug Missing quick,bad
+Bug Support pre release versions,bad
+Bug API visible difference getValue getReplacementString AbstractTemplateSection Replacement String Template,good
+Bug Plug dependencies element disappears working,bad
+Bug Open misleading,bad
+Bug Importing plug ins source files,good
+Bug Splash exported product,good
+Bug Manifest builder build properties plugin xml sync mark inconsistencies,bad
+Bug Exception clicking translatable attribute,bad
+Bug Target Platform,bad
+Bug Registry view fragments,good
+Bug Widget disposed Load Target Platform Job,bad
+Bug Export Deployable plug ins deletes build xml prompt,good
+Bug AssertionFailedException clicking dependencies link Assertion Failed Exception,bad
+Bug Generated schema description valid HTML,bad
+Bug Plug wizard resizes full screen height,bad
+Bug PDE Locks adding ton required plugins sweet time,bad
+Bug NullPointerException Manifest Editor doubleclicking sync Dependency Pointer Exception,bad
+Bug File System Target Provisioner wizard glitches,bad
+Bug NPE TargetPlatformPreferencePage Target Platform Preference,good
+Bug configuration dirty arguments tab,good
+Bug Schema identifier bound core style extensions,good
+Bug NPE Launching workspace project deleted disk,bad
+Bug Error project creation manifest file created classpath,bad
+Bug fragment dialog exposes notion matching rules,bad
+Bug Feature based launch ignores version numbers,good
+Bug Plug Dependencies View opening view manifest editor,bad
+Bug existing config ini product editor,bad
+Bug Missing build properties file paralyzes PDE tooling,bad
+Bug Refactoring renaming bundle update references dependents,good
+Bug Manifest Editor schema file deleted extension point delete restored revert,good
+Bug Plug manifest editor Switching form source selects,bad
+Bug Rename library dialog problems,good
+Bug product export generate bundles info,good
+Bug Changing pde core major version qualifier detected error,good
+Bug Bundle Localization Manifest Header honored plugin xml editor,bad
+Bug Extra workspace jobs created auto removing unused filters,good
+Bug Exporting feature saving Ant script generates functional script,bad
+Bug Schema Editors Move attribute field deprecated field,good
+Bug API baseline target considered derived target,good
+Bug editing plugin xml located subfolder plugin project edits MANIFEST root,bad
+Bug tooling NPE Component wizard,bad
+Bug Manifest editor preference leaks images,bad
+Bug XML parser instantiated utilized XML instance document parse discarded,good
+Bug tooling Validate component element factory attributes,good
+Bug Filter workspace features target managed features,good
+Bug erroneous extension validation content assist,bad
+Bug target Making target empty NPE,good
+Bug Schema Editors Read description writable,bad
+Bug Automated Management Dependencies add dependencies link result illegally formatted header,good
+Bug Bundle Localization header Fragments externalized,bad
+Bug NPE Extensions,bad
+Bug osgiminimum missing Principal,bad
+Bug multi FeatureExportOperation log error Feature Export Operation,good
+Bug NPE CalculateUsesOperation Calculate Operation,good
+Bug AbstractModel update NLResourceHelper bundle localization Model NLResource Helper,bad
+Bug Generated Ant Script export plugin projects working,bad
+Bug template missing,good
+Bug Product editor generates plugin list feature based product,bad
+Bug Load Target button enabled Pre defined Target Platform selected Combo,good
+Bug NPE SchemaTransformer getSchemaCssURL Schema Transformer Schema Css URL,good
+Bug PDEModelUtility cache correctly PDEModel Utility,bad
+Bug API Create template method JUnitLaunchConfigurationDelegate JUnit Launch Configuration Delegate,good
+Bug Leakage UndoActionHandler RedoActionHandler disposed open close plugin xml Undo Action Handler Redo Action Handler,bad
+Bug Dependancies initially project creation wizard,bad
+Bug Invalid Plug error severity warning,good
+Bug exceptions PDE refactoring participant,bad
+Bug xml docs parsed correctly,bad
+Bug tooltip description,bad
+Bug target Save work Target Definition Editor,good
+Bug Plug Manifest Editor adds garbage mnemonics saving,bad
+Bug NPE StyledBundleLabelProvider getImage Styled Bundle Label Provider Image,good
+Bug Warning build properties plugin xml listed wildcards,good
+Bug friend internal decorators incorrectly refreshed manifest editor,good
+Bug target current target backing target definition file deleted,bad
+Bug Font size inconsistent add target definition,good
+Bug Lookup Extension Point descriptions fail source plugin directory spaces,good
+Bug plugin xml structure merge viewer document root,good
+Bug NPE Plugin Spy Navigate menu,good
+Bug plugin NPE plug extensions editor,bad
+Bug Inconsistent placement labels update site editor,bad
+Bug Provide consumer based report launch config,good
+Bug MANIFEST editor display plug names commas,bad
+Bug Unable create plugin project jars,bad
+Bug warn file folder output library entry,good
+Bug Unsupported tag secondary type problems created,bad
+Bug Usage pools api baseline xml files causing problems,good
+Bug Product editor doesn support delete key,bad
+Bug Preference opened Plug Wizard wrong parent,bad
+Bug Schema Editors Actions Preview Reference Document offer save file,good
+Bug ModelEntry getBestCandidate bad choices Model Entry Candidate,bad
+Bug Error Log Export Log exports error,good
+Bug bidi Compare editors MANIFEST plugin xml enforce LTR,bad
+Bug Prompted rebuild,bad
+Bug drop fragment project Overview tab confusing,bad
+Bug PackageFinder findPackagesInClassFiles produce invalid names Finder find Packages Files,good
+Bug CVS tests longer repo,good
+Bug copying multiple extensions triggers java lang ClassCastException Exception,bad
+Bug EmptyStackException schema parsing Empty Stack Exception,good
+Bug TOC Editor debug XML errors,good
+Bug Target platform recognize bundles extension jar,good
+Bug CBI Binary plug imports OSGI INF source bundle,bad
+Bug Wrong order classpath entries hosting,bad
+Bug content assist ImportPkg completions include imported pkgs Pkg,good
+Bug NPE writing bundles info stale model,good
+Bug ITemplateSection typo ITemplate,bad
+Bug Error message missing arguments,bad
+Bug Organize Manifests adds settings META INF Export,bad
+Bug dynamic plug project API description API component,bad
+Bug NPE launching nightly build,bad
+Bug PDE illegally complains externalized strings,bad
+Bug Schema Editors ConcurrentModificationException Concurrent Modification Exception,bad
+Bug UITestApplication guard exception runTests UITest Application Tests,good
+Bug Signed features mistaken plug ins,bad
+Bug XMLErrorReporter deprecated calls XMLError Reporter,good
+Bug NPE computing feature dependencies,bad
+Bug ErrorReporter deprecated calls Error Reporter,good
+Bug EventDetailsDialog leaks Clipboard Event Details Dialog,good
+Bug PDE Build dependency runtime compatibility optional,bad
+Bug target platform looses previous bundles adding directory target plugins,bad
+Bug BinaryRepositoryProvider deprecated calls Binary Repository Provider,good
+Bug Resolution issue ant task,bad
+Bug Javadoc tag autocomplete work tag,bad
+Bug Target setting Plug Project wizard remembers,bad
+Bug update Error installing examples provisioned SDK,good
+Bug NPE crashes Eclipse,bad
+Bug Editing extensions PDE editor creates invalid plugin xml,bad
+Bug Create OSGI Bundle Manifest generates exports CVS metadata,bad
+Bug CCE Log view opening Event Details selecting session,good
+Bug Error Log view boldening session confusing,good
+Bug User defined ant properties passed export process,good
+Bug NPE select required button feature based launch config,good
+Bug Opening build properties big plug locks flashes cursor,bad
+Bug Target Platform Realization Preference robust,good
+Bug Validate dialog narrow,bad
+Bug Provider form fields fragment overview updated externalization quick applied,bad
+Bug target target doesn spaces,bad
+Bug Content Assist sort beautify proposals,bad
+Bug Amnesia retrieving extension point descriptions,bad
+Bug Remove garbage imported signed plug ins,good
+Bug Exporting plug project plug ins classes,bad
+Bug check problems platform,bad
+Bug Working ClassCastException edit Working Exception,good
+Bug preferences Javadoc PDEPreferencesManager PDEPreferences Manager,good
+Bug TargetEnvironmentTestCase tests fail locally Target Environment Test,good
+Bug Plug Project jar wizard fails enable Finish button,bad
+Bug testExport Environment junit assertion Missing exported bundle test Export,good
+Bug Bundle Localization OSGI INF bundle properties plugin properties,good
+Bug Deleting Extension Point file problems,bad
+Bug patch Eclipse launch configuration inherit properties target platform,good
+Bug target Target args configs created product configurations,good
+Bug CheatSheet Registering cheat sheet fails java lang NullPointerException Cheat Sheet Pointer Exception,bad
+Bug export features enabled SDK,bad
+Bug binary plug ins update source attachment replacing existing jared plug ins,bad
+Bug meta attribute schema insensitive,good
+Bug refactoring finish rename project existing project,good
+Bug Organize Manifest detect remove exported bundles,bad
+Bug Validate Add Required junit plug launch application app test,good
+Bug project created build properties files errors logged,good
+Bug Extension point schema editor opens read plugin xml editor,good
+Bug Dependency Management account packages binary jars,bad
+Bug XSLT web site xml supported Mac Safari,good
+Bug Invalid Manifests multiple BundleDescription project Bundle Description,bad
+Bug Manifest builder overzealous,good
+Bug schema errors displayed problems explorer views,bad
+Bug Wrong background inheritance preference,bad
+Bug Schema Preview open external browser,good
+Bug NPE opening schema editor,good
+Bug Features dependencies add features fail,bad
+Bug Quickfix solve restriction access problem,good
+Bug patch Event log filter doesn work enabled event details,good
+Bug tooling Component Definition Fields SWT BORDER style,bad
+Bug patch TVT IES Platform String concatenation appeared Polish Language,bad
+Bug tooling unset bind unbind methods service references,good
+Bug tooling Problems unnamed reference elements,bad
+Bug testApplication parameter unusable product test Application,bad
+Bug Creating osgi bundle project adds lazy start header,bad
+Bug Headless application overrides product PDE JUnit launch configurations,good
+Bug NPE opening feature manifest,bad
+Bug Search engine report threshold hit,good
+Bug Spell checking issues org eclipse pde doc user toc xml,bad
+Bug PDE Tools Organize Manifest incorrectly identifes externalized Bundle Category unused,bad
+Bug Load target button PDE preferences Target Platform enabled correctly,good
+Bug Project check project filesystem,bad
+Bug Create preferences build properties problems,bad
+Bug NPE add dependencies plugin,bad
+Bug Target longer start importing binary plug ins,bad
+Bug patch target Dont increment sequence number reload provide tooltips reload update,good
+Bug Changing target environment update plugin container,good
+Bug extension editor longer custom icons,good
+Bug NPE creating extension point schema PDE wizard,bad
+Bug target Minor issues content tab,bad
+Bug Duplicate unordered problems build properties,bad
+Bug Refactor Rename resources update plugin xml,good
+Bug Main tab PDE launch configurations cut bigger dialog font,good
+Bug initialization policy target platform based location,bad
+Bug Eclipse app layout Add API Baseline doesn accept app bundle,good
+Bug combo box JRE bindings,good
+Bug Widget Disposed error creating OSGi manifest,good
+Bug Error Log view display child entries exceptions,good
+Bug Binary compatibility breakage method removed AbstractLauncherTab Launcher Tab,good
+Bug SWTException thrown DependencyManagementSection refresh Dependency Management,good
+Bug Manifest Editors Browse attribute types restrict basedOn based,good
+Bug Export version creating Plug existing JAR archives,bad
+Bug org eclipse core runtime auto start,bad
+Bug Quick Add missing packages add internal packages internal,bad
+Bug PDE Tooling support Exports,bad
+Bug NPE registering context plugin project,bad
+Bug Errors Workspace dialog displayed,bad
+Bug Wording wrong title dialog warns importing running target,good
+Bug regression API tooling complains missing tag method noreference tag,bad
+Bug PDE error dialog logs error app running,bad
+Bug build fresh workspace,bad
+Bug dependencies templates longer,bad
+Bug META INF bundle manifest,bad
+Bug Plug Dependencies View Optional work table mode,good
+Bug PDE warn user Bundle SymbolicName Manifest Symbolic,bad
+Bug PDE resolve translated names plugins directory format,bad
+Bug Extension points declared fragments wrong namespace,bad
+Bug NPE SourceLocationManager Source Location Manager,good
+Bug PDE confused PDE projects,bad
+Bug Manifest completion proposals sorted,good
+Bug Combo box lose cursor Linux,bad
+Bug Manifest Editors,bad
+Bug Schema Editors Actions Refresh schema preview working,good
+Bug Flickering â€œImport plug insâ€ dialog Mac,bad
+Bug Manifest Content Assist Version proposals include qualifiers,good
+Bug Preferences NPE starting eclipse,bad
+Bug Environment Target editor slow initialize,bad
+Bug Clean PDEPerspective,good
+Bug Missing friends settable warning error,bad
+Bug Manifest Editors NPE org eclipse pde internal editor plugin ImportPackageSection,good
+Bug CCE define fragment,bad
+Bug Switching FilteredTree issues Mac Filtered Tree,good
+Bug NPE product editor add required plugins,bad
+Bug NPE running Find Unsed Dependencies Dependencies View,bad
+Bug Unjustified tag error incremental build,bad
+Bug compatibility issues,bad
+Bug compile plugins referenced link files,good
+Bug tag tests mysteriously failed,bad
+Bug remove missing plug Target Definition editor,good
+Bug Product Editor Overview grey unusable,good
+Bug problem generated missing output lib entry,good
+Bug Target Definition problems Helios,bad
+Bug NPE ManifestEditorMatchingStrategy Manifest Editor Matching Strategy,good
+Bug Clicking entry Classpath table plugin xml editor ArrayStoreException Array Store Exception,bad
+Bug Incorrectly parse headers Manifest Content Assist,good
+Bug API problems org eclipse base,good
+Bug Duplicated entries classpath container,good
+Bug PDE Warning illegal characters feature xml complains chars,good
+Bug apitools Add API Baseline wizard opened wrong parent shell,good
+Bug Importing fragment Export headers forgets java nature,bad
+Bug Cycles Dependency Graph resizable,good
+Bug NPE target provisioning,bad
+Bug RCP templates missing,bad
+Bug update path prompt save plugin xml,bad
+Bug preferences saving trigger preference initializaion exception shutdown,good
+Bug NPE ManifestSourcePage getRangeElement Manifest Source Range Element,good
+Bug Manifest Editors Friends selected addition,good
+Bug OpenSchemaAction handle locations spaces Open Schema Action,good
+Bug Missing singleton directive result warning,good
+Bug Provide summary missing required bundles,good
+Bug outline view displayed garbled text editor overview displayed,bad
+Bug Creating product plugin Extension tab empty editor closed opened,bad
+Bug Adding Imported Provide Version,bad
+Bug Unable JUnit tests org eclipse jdt junit runtime target platform,bad
+Bug Compatibility HandlerUtil getActiveShell parent Workbench Shell Handler Util Active Shell,good
+Bug NPE occurs retrieving content CVS,bad
+Bug Restore defaults doesn work API Scans preference,good
+Bug Dependencies Views Fragment host,good
+Bug PDE supplies pdelaunch IApplication launches stripped platform,bad
+Bug target warning target selected preference,good
+Bug Update JUnitLaunchConfigurationDelegate JUnit Launch Configuration Delegate,good
+Bug plugin xml,bad
+Bug PDE target doesn work easily,bad
+Bug NPE FilteredPluginArtifactsSelectionDialog restoring history Filtered Plugin Artifacts Selection Dialog,good
+Bug NPE startup,bad
+Bug variables config ini template field don stick,good
+Bug additional plug feature launch silently removed,good
+Bug Plug project property template deprecated elements,bad
+Bug Dependecy Analysis side edit plugin xml file,bad
+Bug NPE Compute dependancy extent action plugins,good
+Bug docs core runtime applications core runtime products ext pts missing,good
+Bug logview LogView assumes FILTERED TEXTS Log View,good
+Bug Export product fails product ini proper location,good
+Bug API Freeze check leads NPE,bad
+Bug doc Missing topics schema editor,good
+Bug Tracing tab dirty button,good
+Bug Plug ins view malformed content description,bad
+Bug launch runtime workbench binary imported plug ins,bad
+Bug Compiler warnings,bad
+Bug target Provide careful handling Remove button pressed,bad
+Bug Extension editor doesn remember field,bad
+Bug tooling NPE DSErrorReporter reportIllegalCardinality DSError Reporter report Illegal Cardinality,good
+Bug nooverride tag proposed classes,good
+Bug Dups Eclipse ClassLoader getResources String Loader Resources,bad
+Bug Javadoc errors org eclipse pde core target,bad
+Bug Secondary Dependencies access rules incorrect,good
+Bug translatable attribute,bad
+Bug Add quickfix problem reporting api component resolution error,bad
+Bug Plug Manifest builder IllegalArgumentException Bundle Classpath Illegal Argument Exception,good
+Bug mixed delimiters,bad
+Bug TVT TCT English string Sample Table Contents,bad
+Bug target target editor acting strange incorrect context hookup,good
+Bug NPE opening OSGi frameworks prefs,good
+Bug Plugins tab likes dirty button,good
+Bug NPE Plugin Fragment Wizards triggered Product Configuration Editor,good
+Bug doc Description extension point org eclipse pde osgiFrameworks osgi Frameworks,good
+Bug Adding packages Manifest rebuild,bad
+Bug Errors saving plugin descriptor file,bad
+Bug Vertical layout weird Extensions,bad
+Bug Incorrect button sort FeatureSection Product Editor Feature,good
+Bug Product Editor add duplicate features,bad
+Bug NPE building workspace,bad
+Bug Manifest Editors Weird character representing open bracket tree table viewers,bad
+Bug logivew selections accept object contributions,bad
+Bug Remove javadoc resolution remove icon,good
+Bug Extension dialog focus filter text field,good
+Bug log view IllegalArgumentException log view Illegal Argument Exception,bad
+Bug failing test,bad
+Bug sync switching targets,bad
+Bug Search extension point references don multiple versions,bad
+Bug PDE Tools Update Classpath deletes Access Rules,bad
+Bug Description unnecessarily cleared extension wizard,good
+Bug NPE XMLUtil getSchemaElement clicking attribute warning Schema Element,good
+Bug quickfix remove redundant internal,good
+Bug flag bin includes include plugin xml fragment xml,good
+Bug tooling setup wizard preview,good
+Bug Conversion org eclipse update core causing weird,bad
+Bug tooling ensure component xml files included bin includes,bad
+Bug GVT Truncation setup Convert Preferences,bad
+Bug Call implementation FormFilteredTree doCreateTreeViewer Form Filtered Tree Create Tree Viewer,good
+Bug UseReportConverter prints reference API patterns Report Converter,good
+Bug Plug Project wizard error creating box project,bad
+ServletContextListener contextDestroyed completely executed updating war Servlet Context Listener context Destroyed,bad
+caching resources docu StringManager String Manager,bad
+RpcChannel sends answer requesting ACK Rpc Channel,good
+Tomcat Javadoc unthrown exception fixes,bad
+QueryStats synchornisation issues Query Stats,good
+AJP connector sends BODY CHUNK reading response closed,good
+Concurrent issue TagPluginManager Tag Plugin Manager,good
+DefaultAnnotationProcessor processAnnotations doPrivileged call getDeclaredFields Annotation Processor process Annotations Privileged Declared Fields,good
+ServletContainerInitializer crash catalina dependcy Servlet Container Initializer,good
+Transmission duplicated session DeltaManager handleGET SESSIONS Delta Manager handle,good
+session listener invalidate session,good
+URIEncoding doesn affect form authentication redirect,good
+StandardEngine defaultAccessLog stale ROOT webapp redeployed Standard Engine Access Log,good
+async examples work correctly,bad
+System err overriden output System,bad
+bounds exception thrown dynamically adding Filter,bad
+Incorrect standard SSL properties JMX JMXRemoteLifecycleListener JMXRemote Lifecycle Listener,good
+JDBCRealm Digest authentication Flow working Function sequence error,good
+invalidated session pageContext methods fail Context,bad
+JspRuntimeContext synch problems Jsp Runtime Context,good
+DirContextURLConnection Format Header Values HTTP spec Dir Context URLConnection,good
+org apache catalina tribes ChannelData EMPTY DATA ARRAY Channel Data,good
+org apache tomcat jni Address APR ANYADDR,good
+Lost interruption,bad
+Fields,bad
+BaseModelMBean clean attributeBroadcaster removeNotificationListener Base Model MBean attribute Broadcaster remove Notification Listener,good
+AccessLogValve race condition problem Access Log Valve,good
+Filter dynamically,good
+Tomcat doesn output stack trace UnavailableException Unavailable Exception,good
+org apache catalina session StoreBase hidden dependency PersistentManager Store Base Persistent Manager,good
+AccessControlException undeploying application Access Control Exception,bad
+JNDIRealm getPrincipal context username gssCredential corrupts realm context Principal gss Credential,good
+Deactivated expressions parsed jsp expressions scriptlets,good
+setParent called nested tags tag file tagx Parent,good
+exception tagPlugin generated code tag Plugin,bad
+XByteBuffer privatize fields Javadoc XByte Buffer,good
+javax servlet http Cookie setDomain charset Domain,good
+Odd decapitalization inferring JavaBean property setter injection target Java Bean,good
+Startup time high JARs lib webapps,good
+ClassCastException occurs context xml ResourceLink Exception Resource Link,bad
+Wrong names generated URL ENCODER DirContextURLConnection thread safe Dir Context URLConnection,good
+NPE form authentication form login config missed,good
+NonLoginAuthenticator honour session timeout SingleSignOn Valve Login Authenticator Single Sign,good
+JMX Descriptor Modifications,bad
+ServletContainerInitializer onStartup classSet expect Servlet Container Initializer Startup,bad
+VirtualDirContext setExtraResourcePaths incorrect separator semicolon comma Virtual Dir Context Extra Resource Paths,good
+JSP UnavailableException IllegalStateException occurs Unavailable Exception Illegal Exception,good
+Error thrown detection ServletContainerInitializer Servlet Container Initializer,good
+call jspDestroy method violates Java Servlet Specification SRV jsp Destroy,bad
+file called StackOverflowError tldScanResourcePaths startup Stack Overflow Error tld Scan Resource Paths,bad
+AccessLog log size files sendfile Access Log,good
+work option unpackWARs WARs appBase unpack WARs app Base,good
+starting Tomcat fail BindException Bind Exception,bad
+JNDIRealm java handle password,good
+NPE mapping method,bad
+Manager incorrectly reports deployment failed,good
+java FileNotFoundException deploying web application white space context root File Exception,bad
+log level failed loading,bad
+filter mapping doesn find WebFilter filterName Web Filter filter,good
+org apache catalina core ContainerBase getLogger thread safe Container Base Logger,good
+MapperListener lifecycleEvent check parent calling registerWrapper Mapper Listener lifecycle Event register Wrapper,good
+Dangerousness workDir setting Context work Dir,good
+Websocket StreamInbound reports receipt Pong Stream Inbound,good
+Nullpointer Exception activating SSI loading html file specific comment,good
+Connector destroyInternal Execution destroy Internal,bad
+NPE Http Processor action,good
+Output tag jsp plugin conform XHTML,bad
+javax CompositeELResolver synchronization issue Composite ELResolver,good
+Running SecurityManager jsp returns blank accessed Security Manager,good
+Misleading error message FilterBase invalid regex Filter Base,bad
+org apache tomcat util net NioBlockingSelector BlockPoller Nio Blocking Selector Block Poller,good
+OutputBuffer doFlush Exception doFlush stuck Output Buffer Flush Flush,good
+WebSocket session closed onOpen sendText sync mode Web Socket Open send Text,bad
+Unable custom implementation AbstractHttp Processor methods Http,bad
+Detect stuck threads,good
+Prevent potential data races org apache catalina tribes transport bio util FastQueue size Fast Queue,good
+hard limit Http NioProcessor objects Nio Processor,good
+webapp expanded FOLDER named webapps xxx war loaded,good
+Manager detailed status display servlets,bad
+request getCharacterEncoding misparses charset UTF xyz Character Encoding,bad
+Patch generics catalina,bad
+Patch generics javax packages,bad
+role tomcat users xml invalid character,bad
+Intermittent java lang IllegalArgumentException session config element limited occurrence Illegal Argument Exception,bad
+org apache catalina startup Embedded overrides Lifecycle incorrectly,good
+Websocket client connect Tomcat servlet SecurityManager place Security Manager,bad
+Potential NullPointerException org apache catalina servlets WebdavServlet Pointer Exception Webdav Servlet,good
+Incorrect tag XML response calling manager status XML,bad
+classes remain memory web application LDAP,bad
+NPE org apache tomcat util modeler Registry,good
+concurrency problem corrupts WARDirContext Entry children WARDir Context,good
+AbstractReplicatedMap entrySet returns values entries Replicated Map entry,good
+ApplicationContextFacade generics fixes Application Context Facade,good
+Jasper task JspC NPE taglibs Jsp,good
+URL parameter parsed logging level DEBUG,good
+org catalina tomcat startup Tomcat silence method doesn host add applications,good
+maxHttpHeaderSize ArrayIndexOutOfBoundsException max Http Header Size Array Bounds Exception,bad
+Bug introduces NullPointerException RealmBase java user JDBC Pointer Exception Realm Base,good
+Generics fixes,bad
+webservices ServiceRefFactory initHandlerChain adds wrong items list Service Factory init Handler Chain,good
+Missing HTML closing tags Manager application,good
+failonerror attribute Ant tasks,bad
+Embedded stopInternal sets STARTING STOPPING Internal,good
+Shutting tomcat large number contexts slow,bad
+ChunkedInputFilter returning EOF client closes connection sending chunk Chunked Input Filter,good
+DataSourceRealm provide info SQLException Data Source Realm,good
+Webapp unavailable deploy start,bad
+WebDAV servlet returns files readable Web DAV,good
+Tomcat ignores javax net ssl trustStoreType system property trust Store Type,good
+Javadoc fixes connector Request java,bad
+JNDIRealm exception timeout Connection reset,good
+Server CPU maxed core randomly hours,bad
+WebappClassLoaderBase exposes system instance member Webapp Loader Base,good
+java lang IllegalArgumentException session config element limited occurrence Illegal Argument Exception,good
+Deployment application ROOT context hangs,bad
+Memory Leak SecureNioChannel Secure Nio Channel,bad
+Avoid NullPointerException JULI FileHandler formatter misconfigured Pointer Exception File Handler,good
+SMAP broken Java JSP compile,good
+SPNEGO failures leading stack trace prints PrivilegedActionExceptions Privileged Action Exceptions,good
+ACTIVITY CHECK work correctly Tomcat restarted,good
+Version cookie persisted,bad
+Decoding jsessionid bug,bad
+HttpSessionBindingListener valueUnbound wrong classloader SingleSignOn valve Http Session Binding Listener Unbound Single Sign,good
+Session time shorter setting web xml PersistentManager Persistent Manager,good
+InternalAprInputBuffer fill doesn deal correctly EOF Internal Apr Input Buffer,good
+McastServiceImpl leaks sockets Mcast Service Impl,good
+tribes membership MemberImpl toString getClass getName Member Impl String,good
+Examples app security exceptions,bad
+RuntimeException WebappClassLoader checkThreadLocalMapForLeaks LifecycleException Runtime Exception Webapp Loader check Thread Local Map Leaks Lifecycle Exception,good
+translation error messag template text,bad
+Deadlock produced Websocket write operation org apache catalina websocket WsOutbound Outbound,good
+Response setCharacterEncoding fails Response getWriter Response reset Character Encoding Writer,good
+RESOURCES DECLARED PARENT CLASSES INJECTED,bad
+Notification expired session initializing servlet context,good
+invalid sessions removed PersistenManager store Persisten Manager,good
+RemoteIpFilter adjust getRequestURL Remote Filter Request URL,good
+java lang IllegalArgumentException URI scheme file thrown ContextConfig getDefaultWebXmlFragment Illegal Argument Exception Context Config Web Xml Fragment,good
+request getBytesRead Bytes Read,good
+Fails deploying update context xml,good
+XML parser loading problems container,good
+Session type Backup Primary,bad
+load listeners declared blank spaces tld file,bad
+Requests open URL include Authorization header reach servlet,bad
+AntCompiler problems whitespace pathname Ant Compiler,bad
+websocket Inappropriate executor WsServerContainer Server Container,good
+RemoteIpFilter parameters consistent RemoteIpValve Remote Filter Remote Valve,good
+HttpServletRequest getAttributeNames names attributes Http Servlet Request Attribute Names,bad
+common typo exipre,bad
+typos comments HostManagerServlet Host Manager Servlet,good
+usage method start start thread,bad
+SpnegoAuthenticator Resource file missing placeholders exceptions Spnego Authenticator,good
+WebDAV mounts Windows Mini Redirector clients Web DAV,good
+Missing Coercion argument type mismatch,good
+FarmWarDeployer nonsense condition Farm War Deployer,good
+StandardContext bindThread unbindThread symmetrical limited current thread Standard Context bind Thread unbind Thread,good
+Concurrent issue TagFileProcessor Tag File Processor,good
+Tomcat Installer attribute generated tomcat users xml,good
+Exception logged annotation scanning web apps WEB INF classes,good
+memory performing ContextConfig webConfig Context Config web Config,good
+WatchedResource configured TomcatHome conf Catalina localhost context XML file triggering context reload working days Watched Resource Tomcat,good
+NPE StandardContextValve invoke webapp redeployed request processed Standard Context Valve,good
+jasper ant task fails space uriroot,bad
+Coerce expression java lang Object breaks expression concatenation,bad
+Additional error checking required connector port attribute port,good
+WebappLoader doesn honor delegate attr constructing jsp classpath Webapp Loader,good
+context path empty tomcat startup FileNotFoundException File Exception,good
+absolute ordering include element,good
+Exception,bad
+Persistent cookies written work Internet Explorer Safari,bad
+Bad file descriptor IOException CGIServlet programs,good
+Engine level Clustering work correctly web application version,bad
+DataSource password exposed applications toString method Data Source String,bad
+Performance Issue retriving JAR files TLD file parsing,bad
+StatusManagerServlet remove JMX notification listener Status Manager Servlet,good
+JSP Reloading Initialization Problem,good
+Parallel deployment sessionid belongs latest version webapp latest version,bad
+Crash stockticket async caused aborted client request,bad
+Fatal Error send data WebSocket conection closed Web Socket,good
+XML schema validation exception effective web xml generated servlet mapping empty url pattern,good
+Connectors bind ports Catalina load start,bad
+Form authenticator hangs authentication POST request mod proxy ajp,good
+wrong send binary data websocket,good
+ApplicationHttpRequest override javax servlet ServletRequestWrapper getServletContext Application Http Request Servlet Request Wrapper Servlet Context,good
+Session Statistics command manager fails Unknown command sessions,good
+annotation doesn effective metadata complete effective,bad
+Server ClassLoader Server creation Loader,good
+requests forwarded request attribute javax servlet path info assigned incorrect,bad
+NPE authenticator realm resource defined,bad
+Accept Ranges DefaultServlet Servlet,good
+Patch Authentication reverse proxy authorization Tomcat,good
+JNDIRealm support configuring LDAP sizeLimit countLimit SearchControls size Limit count Limit Search Controls,good
+manager status XML,good
+Jasper display full path file error,bad
+UnsupportedOperationException logged fetching BasicDataSource loginTimeout Unsupported Operation Exception Basic Data Source login Timeout,bad
+Complete Server status status stack trace,bad
+ArrayIndexOutOfBoundsException Jasper compilation error CDATA block Array Bounds Exception,good
+Unmatched quotes JSP parser,good
+CHANGE SESSION message received cluster session synchronization dropped,good
+Unabled store data HttpSession root context Http Session,bad
+DeltaSession ignores notifyListenersOnReplication BackupManager Delta Session notify Listeners Replication Backup Manager,good
+PropFind error MkCol succes Prop Find Col,bad
+sendRedirect doesn work dispatch AsyncContext send Redirect Async Context,bad
+POST content type incorrect multipart forms login,good
+Context correctly stopped shutdown,bad
+Bad getClass lead concurrency bugs,bad
+incomplete invalid context paths StandardContext java JNDI fails Standard Context,bad
+JSPWiki JSP compilation prevented org apache jasper Constants JSP,bad
+webapps deployed accessing URL returns content,bad
+Crash infinite loop files starting library tree,bad
+Matching relevant servlet filters fails request forwarded,good
+ContextConfig checkHandlesTypes doesn check VerifyError loading Context Config check Handles Types Verify Error,good
+AccessLogValve fileDateFormat changed JMX Access Log Valve file Format,good
+WebappClassLoader getThread access root ThreadGroup Webapp Loader Thread Thread Group,good
+Compiled tag files tag libraries share,good
+Wrong websocket subprotocol implementation,good
+provide insight BindException assign requested address Bind Exception,good
+Duplicate property files,bad
+JDBCRealm getRoles bad synchronization hangs DIGEST authentication Roles,good
+clustering fails serializing javax security subject,bad
+PATCH Response isSpace deprecated isWhiteSpace Space White Space,bad
+JSP file recompiled file based TLD URL,bad
+Context fails reload error web xml corrected,bad
+Tomcat replicate session started,bad
+Valve Javadocs invoke method references existent method,good
+PersistentManager loads session Store calls session expire Persistent Manager,good
+starting thread startAsync Runnable infinite amount doPosts generated start Async Posts,good
+NPE ReplicationValve Replication Valve,good
+org apache tomcat jdbc pool PooledConnection assignment typo Pooled Connection,good
+IllegalStateException calling AsyncContext dispatch Illegal Exception Async Context,good
+newInstance Dynamic instance filters causing InstantiationException Instance Instantiation Exception,good
+autodeploy fails redeploy latest war,good
+Sample build xml wrong manager url,good
+ConcurrentModificationException removing WAR FarmWarDeployer Concurrent Modification Exception Farm War Deployer,good
+Webssocket secure client thread access webapp resources,bad
+AbstractReplicatedMap memberDisappeared executed necessity Replicated Map member Disappeared,good
+java lang IllegalStateException Calling asyncComplete Illegal Exception async Complete,good
+File descriptor leak web xml loading,bad
+Error running CGI executable Tomcat,good
+Deadlock separate thread write ServletOutputStream Servlet Output Stream,bad
+clearReferencesJdbc causing leaks oracle ojdbc driver clear References Jdbc,good
+Http NioProcessor correct release Nio Processor,good
+Unable deploy applications xml,bad
+Potential syncro problem StandardSession expire Standard Session,good
+Annotation processing WEB INF classes Servlets Listeners Filters skipped web app extracted classes packages embedded scenarios,good
+NIO Connector Exception invoking method readBufSize writeBufSize JMX Proxy Servlet read Buf Size write Buf Size,bad
+nullpointer exception RequestUtil parseParameters Request Util parse Parameters,good
+Avoid throwing NameNotFoundException BaseDirContext lookup Exception Base Dir Context,good
+service qname soap header parsed correctly,good
+Disabling SSLEngine AprLifecycleListener leads misleading error message startup SSL Connector delcared Apr Lifecycle Listener,bad
+NullPointerException startup org apache catalina startup HostConfig filterAppPaths missing app base Pointer Exception Host Config filter App Paths,good
+InternalNioInputBuffer honor maxHttpHeadSize Internal Nio Input Buffer max Http Head Size,good
+configuration resources loaded places straight filesystem,bad
+initSQL executed JDBC connection created load init SQL,good
+Potential NPE CoyoteAdapter log Coyote Adapter,good
+StatementCache interceptor close ResultSets Statement Cache Result Sets,good
+Potential NullPointerException org apache catalina valves AccessLogValve Pointer Exception Access Log Valve,good
+IBM Java server startup error java lang IllegalArgumentException TLS protocol enabl strict mode Illegal Argument Exception,good
+Request getAttributeNames slows applications Attribute Names,bad
+error reported jsp include existent target,good
+TestTomcat fails delete work directory Test Tomcat,bad
+Tribes ByteMessage corrupted message size exceeds underlying buffer size Message,good
+Tomcat doesn send Vary consistently gzip enabled,good
+GZipped responses result java IOException Corrupt GZIP trailer gunzip,bad
+Avoid duplicated String CharArray conversion loop Matcher matchName Array match,good
+JNDIRealm Authentication GSSAPI LDAP SSL connection exception,good
+tagx files don compile document encoding casing differs,bad
+AprLifecycleListener initialize configured server xml Apr Lifecycle Listener,good
+NIO connector fails SSL handshake uppercase letters keyAlias key Alias,good
+incomplete resource leak bug WebappClassLoader java Webapp Loader,good
+RealmBase authorization hasResourcePermission fully servlet spec compliant Realm Base Resource Permission,good
+JNDIRealm roleNested doesn work roleSearch member role Nested role Search,good
+org apache jasper compiler JspUtil getTagHandlerClassName org apache jasper Constants TAG FILE Jsp Util Tag Handler,good
+ExpressionFactoryImpl createMethodExpression Spec conform Expression Factory Impl create Method Expression,good
+NPE TagFileProcessor tag file expanded directory jar Tag File Processor,good
+Servlet annotations scanned unpackWars unpack Wars,bad
+SPNEGOAUTHENTICATOR GSSCredential renewed RemainingLifeTime Remaining Life Time,bad
+Dynamic Filter Registration mapping logic inverted,good
+Regression cache control headers requests security constraints,good
+Bad Connector protocol NullPointerException Executor Pointer Exception,good
+Tomcat reports empty close reason send operation timed,bad
+reference javax security Policy contextClassLoader prevents undeployed Web application garbage collected context Loader,good
+org apache catalina authenticator SingleSignOn valve function Single Sign,good
+ServletContext getResourceAsStream returns stale data Servlet Context Resource Stream,bad
+RemoteIpFilter request secure request scheme forced http Forwarded Proto http Remote Filter,good
+Blank dropped connection running TCnative APR,good
+Context parameters overridden parameters web application deployment descriptor,good
+cite attempted address throwing assign requested address,bad
+HEAD requests request dispatch include,good
+validationInterval attribute validation Interval,good
+Connector compression overwrites Vary header,bad
+inconsistent error behavior,bad
+org apache catalina core ApplicationContextFacade Application Context Facade,good
+Jasper illegally org eclipse jdt internal compiler env ICompilationUnit Eclipse ICompilation Unit,good
+Thread safety issue ApplicationContextFacade invokeMethod Application Context Facade invoke Method,good
+landingpage XHTML JSF CDI nullpointer exception,good
+jsp mapped servlet web xml cyrillic characters allowed web xml,bad
+ManagerBase backgroundProcess NullPointerException Manager Base background Process Pointer Exception,good
+Potential Bug Inconsistency NioBlockingSelector java Nio Blocking Selector,good
+JspC checking uriRoot option validness Jsp uri Root,good
+org apache catalina startup Catalina incorrectly duplicates member,bad
+Jasper generate uncompilable source code genStringAsCharArray turned gen String Array,good
+Generator JspFragment invoke implementation reset ELContext JspContext Jsp Fragment Jsp Context,good
+Infinte loop FileDirContext CDI Weld project Eclipse Server modules publishing File Dir Context,good
+Tomcat SPNEGO authenticator incompatible IBM JDK Accept Security Context wrapped Privileged Action order server side authentication,good
+Setting logger specific overrides logging properties working,good
+Error war deploy archive malformed Tomcat releases IBM iSeries System Series,good
+Selector closed,bad
+annotation process Jar impact distributable web xml,good
+Incomplete error message lookup resource bound naming,good
+Fail access resources jsp files jar file supported servlet,good
+CometProcessor flush close HTTP requests Comet Processor,bad
+ExtensionValidator doesn handle wrapped lines MANIFEST Extension Validator,good
+java lang NoSuchMethodException thrown starting tomcat security enabled tracking mode web xml Method Exception,good
+Folder web fragment xml impact status distributable,good
+StreamInbound closeOutboundConnection WsFrame closes opcode status Stream Inbound close Outbound Connection Frame,good
+DefaultServlet leak resource method copy CID Servlet,good
+Unable destroy WebSocket thread group warning reloading examples webapp Web Socket,good
+disableUploadTimeout KeepAliveTimeout correlated Http Connector disable Upload Timeout Alive Timeout,good
+Threads leak,bad
+NIO connector incorrectly closes connection client certificate verification fails,bad
+Incorrect parsing tag attributes,bad
+infinit loop nio connector code,bad
+maxConnections AprEndpoint init error max Connections Apr Endpoint,good
+Patch JNDIRealm fails parse absolute names,good
+SSO cookie HttpOnly Http,good
+WebappClassLoader validate validate javax servlet Webapp Loader,good
+NioEndpoint poller thread died Nio Endpoint,good
+jar wrong throwing UnsupportedClassVersionError Unsupported Version Error,bad
+JNDIRealm java parsing roles correctly,good
+AjpConnectionHandler connections causing memory leak Ajp Connection Handler,good
+correcting generics warnings,bad
+Patch Generics warnings rawtypes,good
+NPE,bad
+attribute values tag file properly escaped,good
+Error message unhelpful web xml references tld file doesn exist,good
+Deadlock FileHandler java log rotated File Handler,good
+Sticky sessions PersistentManager enter indeterminate node failover Persistent Manager,good
+Unable override servlet Tomcat embedded mode,bad
+TagPlugin ForEach doesn support CSV items Tag Plugin,good
+Tomcat CORS filter allowing origin file resource access WebView Web View,good
+Programmatic login UserDatabaseRealm returns error User Database Realm,bad
+java lang StackOverflowError deploying web application Stack Overflow Error,good
+original loader isn bound thread PersistentValve invoke Persistent Valve,good
+High CPU load NIO connector client breaks connection unexpectedly,bad
+Memory leak SSL Java security manager,good
+ClassLoaderLogManager remove logging properties values Loader Log Manager,good
+jspInit method called jsp Init,bad
+Endless loop APR poller connector shutdown,good
+log level messages,bad
+NPE WebappClassLoaderBase Webapp Loader Base,good
+smap generated JspC Ant precompilation Jsp,bad
+suspectTimeout work expected removeAbandoned match documentation suspect Timeout remove Abandoned,good
+HTTP SSL NIO won work,bad
+Tomcat deploy dir zip archive directory ends war,good
+SWAP increases cluster Tomca,bad
+Wrong HTTP code failed CLIENT CERT authentication,good
+PooledParallelSender sendMessage NullpointerException Pooled Parallel Sender send Message Nullpointer Exception,good
+logging maxHeaderCount hit max Header Count,bad
+SingleSignOn valve warns missing session invoking HttpServletRequest logout Single Sign Http Servlet Request,good
+Failure parse MergedWebXml validation enabled Jasper Merged Web Xml,good
+Memory Leak WebappClassLoader Webapp Loader,good
+SSI correctly process HEAD request,bad
+docBase path webapps backslash inserted doc Base,good
+Mapping application context root returns reload,bad
+CrawlerSessionManagerValve serializable exception passing sessionAttribute Crawler Session Manager Valve session Attribute,good
+Exception writing HTTP response AsyncListener onTimeout method servlet HTTP NIO Async Listener Timeout,bad
+loading issue TagPlugin TagPluginManager Tag Plugin Tag Plugin Manager,good
+JspEngineInfo getSpecificationVersion returns Jsp Engine Info Specification Version,good
+PersistentValve deletes sessions creates Persistent Valve,good
+litmus warning WebdavServlet Webdav Servlet,good
+Async context timeout HTTP NIO connector,bad
+NPE processSocket process Socket,good
+Infinite loop shutting AprEndpoint Apr Endpoint,good
+Unmodified failure,bad
+JSP Generation error recursive tagfile structure,bad
+NPE comet processing shutting Tomcat,good
+ExceptionUtils NoClassDefFoundError startup Exception Utils Def Error,bad
+JspFactory getPageContext JspWriter BUFFER IllegalArgumentException Jsp Factory Context Jsp Writer Illegal Argument Exception,good
+Tomcat Acceptor Thread wait,good
+SpnegoAuthenticator working IBM JDK Kerberos incorrect credential lifetime Spnego Authenticator,good
+logging statement error org apache catalina startup Bootstrap java,good
+Tomcat API methods declare Exception,bad
+Change Tomcat setSilent setSilent Silent Silent,good
+Occasional failure TestWsWebSocketContainer testSmallTextBufferClientTextMessage test Test Web Socket Container test Small Text Buffer Client Text Message,good
+JSESSIONIDSSO created authentication request logout login username password,good
+BASIC Authentication DIGEST mode work hash stored uppercase,good
+Order invocation method ServerEndpointConfig Configurator Server Endpoint Config,good
+java lang UnsupportedOperationException getName method called Unsupported Operation Exception,good
+Files headers,bad
+ClassCastException removing Valve Exception,good
+Nio Selector issue linux platform,bad
+Wrong JNDI Method Resource Injections,good
+avoid parallel arrays base types,bad
+JmxRemoteLifecycleListener work SSL Jmx Remote Lifecycle Listener,good
+NPE AccessLogValve Access Log Valve,good
+start embedded container Jasper,bad
+NameNotFoundException thrown field method annotated Resource annotation Exception,good
+patch Ensure rethrown exceptions retain original,bad
+JNDIRealm close NamingEnumeration Naming Enumeration,good
+jstl support,bad
+NullPointerException embedded tomcat Pointer Exception,bad
+Context className attribute contexts deployed descriptors web META INF context xml,good
+Code generation error jstl tagPlugin escapeXml tagPlugin tag Plugin escape Xml tag Plugin,good
+Deploy ROOT webapp version text manager Ant,good
+JSP compiler points error wrong number statements,good
+String instance generated constant string Generator convertString convert String,good
+checkThreadLocalMapForLeaks positives check Thread Local Map Leaks,good
+sendRedirect support protocol relative URLs send Redirect,good
+CometEvent event suspended socket disconnect running Tomcat tcnative dll Windows Vista Windows Server newer Comet Event,bad
+Compiled tags correct directory,bad
+org apache catalina startup Bootstrap main method handles startd stopd wrongly,good
+Incorrect warning logging invalidate session SingleSignOn valve Single Sign,good
+Problems AsyncListener resource injection Async Listener,good
+ReplicatedMap don TcpFailureDetector configuration Replicated Map Tcp Failure Detector,good
+structure masks original exception JDBCRealm getPassword Password,good
+Setting rmiBindAddress JmxRemoteLifecycleListener prevents tomcat starting rmi Bind Address Jmx Remote Lifecycle Listener,good
+wasted work ValidateVisitor isExpression Validate Visitor Expression,good
+Resource Normalization JNDI,good
+Work directories deployed webapps deleted shutdown,good
+Manager application fails report stranded artifacts undeploying,good
+Bug StandardPipeline removeValve Valve valve Standard Pipeline remove Valve,good
+RecycleRequiredException missing AsyncListener onTimeout call Recycle Required Exception Async Listener Timeout,good
+Parser escaping dollar sign,good
+Upgrade Response Transfer Encoding chunked invalid,good
+Tomcat support application specific close codes,good
+PersistentManager filestore session objects linked session Tomcat restarted Persistent Manager,good
+WebappLoader exception workDir exists unpackWARs Webapp Loader work Dir unpack WARs,good
+read POST data filter valve,bad
+Unable ResourceBundle Tomcat Resource Bundle,good
+Atomicity violation,bad
+Wasted work AbstractReplicatedMap excludeFromSet Replicated Map exclude,good
+Wasted work TestNonLoginAndBasicAuthenticator doTestBasic Test Login Basic Authenticator Test Basic,good
+catalina base ConfigFileLoader NPE initializer Config File Loader,good
+Tomcat JAAS problem CDI,bad
+HTTP Connector incorrectly Exception Invalid Modified Header,good
+NullPointerException DefaultInstanceManager processAnnotations Pointer Exception Instance Manager process Annotations,good
+Tomcat manager incorrect deployment status,bad
+WebSocket implementation issue wrapped requests Web Socket,good
+Don create SESSIONS ser session exists,good
+ParserController hasJspRoot detect JSP XML syntax jsp root namespace declaration delimiters Parser Controller Jsp Root,good
+ImageIO based applications fail deploy Tomcat worked Image,bad
+Duplication recycling path ServerCookie Server Cookie,good
+Tomcat shut LifecycleListener exception Lifecycle Listener,bad
+Wrong loader myServlet destroy called myServlet shared directory Servlet Servlet,bad
+WebappClassLoader java lang OutOfMemoryError findResourceInternal Webapp Loader Memory Error find Resource Internal,good
+MBeanServer invoke issue MBean Server,bad
+CorsFilter support PATCH method Cors Filter,good
+Servlet superclass injection targets,good
+ExceptionUtils missing bootstrap jar Exception Utils,good
+Cookie parsing bug empty equal sign,bad
+NullPointerException context xml Resource Pointer Exception,bad
+wrong javax servlet async request uri javax servlet async path info missing,good
+AjpNioProtocol corrupts ignores request body Ajp Nio Protocol,good
+manager XML hard coded path XSL transformation,good
+servlet cgi bounds exception cgi,good
+memory caused notFoundResources org apache catalina loader WebappClassLoader Resources Webapp Loader,good
+WebdavServlet returns incorrect values href property mapped url prefix Webdav Servlet,good
+Add RemoteIpFilter test Remote Filter,good
+Wasted work AttributeNamesEnumerator constructor Attribute Names Enumerator,good
+ManagerBase setRandomFile error handling Manager Base Random File,good
+Wasted work ErrorReportValve getPartialServletStackTrace Error Report Valve Partial Servlet Stack Trace,good
+NIO connectionUploadTimeout work connection Upload Timeout,bad
+NullPointerException JNDIRealm search finds org apache catalina realm JNDIRealm Pointer Exception,good
+JNDIRealm userSearch work active directory roles user Search,good
+Timeout argument misprocessed expiring sessions Tomcat Manager,bad
+NamingContextListener fails add PropertyChangeListener namingResources Naming Context Listener Property Change Listener naming Resources,good
+Configuration Realms nested levels deep,good
+EvaluationContext wrapper hides locale Evaluation Context,good
+Processing Tomcat Connector configuration leave connectors uninitialized,good
+ClassNotFoundException deserializing custom object FileStore Exception File Store,good
+Impossible condition coyote http Http Processor process Socket socket,bad
+connectionTimeout high CPU connection Timeout,bad
+Resources served WEB INF lib jar META INF resources metadata complete web xml,good
+Incorrect Parameter RemoteIpValve Examples Remote Valve,good
+connectionTimeout timeout negative connection Timeout,bad
+JMXAccessorTask String constants JMXAccessor Task,good
+Expression Language expressions result TagData REQUEST TIME object Tag Data,good
+Latest trunck configure context metadata complete version,good
+Tomcat reports missing context xml wrong location JMX deployment,bad
+download file size NIO connector tomcat version configuration download tomcat,bad
+KeyReference Objects CMS remark Times Key Reference,good
+small TaskThreadFactory Task Thread Factory,good
+NPE AprEndpoint java Apr Endpoint,good
+Duplicate comment code CoyoteAdapter java Coyote Adapter,good
+SPNEGO loginConfigName work login Config,good
+TLS prefixed ciphers discarded IBM JRE,good
+Global error handled,bad
+metadata complete illegal JVM CONSTANT,bad
+SEVERE ServletContentInitializer Licensed Apache Software Foundation ASF created Servlet Content Initializer,bad
+TestNonLoginAndBasicAuthenticator test session timeout properly Test Login Basic Authenticator,good
+org apache naming NamingContext destroySubcontext method doesn invoke recursively invoke unbind method Naming Context destroy Subcontext,good
+org apache naming NamingContext createSubcontext method returns Context wrong Naming Context create Subcontext,good
+User doesn check argument roles,good
+ArrayIndexOutOfBoundsException setting org apache jasper runtime BodyContentImpl LIMIT BUFFER Array Bounds Exception Body Content Impl,good
+Automatic deployment TCD deletes customized context xml file,good
+memory leak JspRuntimeContext Jsp Runtime Context,bad
+JSP compilation exception pageEncoding utf file order marks Encoding,good
+ExpressionFactory newInstance privileged Expression Factory Instance,good
+StandardPipeline destroyed times Standard Pipeline,good
+ServletContext getResource path doesn accept Servlet Context Resource,bad
+DefaultInstanceManager populateAnnotationsCache incomplete check validating setter method Instance Manager populate Annotations Cache,good
+DirContextURLConnection getInputStream fails reopen resources ProxyDirContext Dir Context URLConnection Input Stream Proxy Dir Context,good
+javaURLContextFactory javadoc refers defunct names initial context properties java URLContext Factory,good
+Tomcat fails call method filter configured Servlet API running SecurityManager Security Manager,bad
+ChannelData SECURE RANDOM UUID mutable field Channel Data,good
+RealmBase init cleanup Realm Base,good
+Util specialCharactersRepresentation special Characters Representation,good
+util IntrospectionUtils PATH SEPARATOR Introspection Utils,good
+listings escape XML characters,good
+org apache tomcat util net AprEndpoint unlockAccept wakeup accepts deferred accept BSD filters Apr Endpoint unlock Accept,good
+StandardHostValve status unnecessarily HTML escapes error message Standard Host Valve,good
+Add drop additional clarification doc delegate setting WebappClassLoader Webapp Loader,good
+NPEs SimpleTCPCluster Simple TCPCluster,good
+raw types,bad
+ContextConfig unnecessary checks Context Config,good
+Spurious deprecated tags ServletContext Servlet Context,good
+runtime JspFactoryImpl PageContextPool Jsp Factory Impl Context Pool,good
+Lack synchronization org apache catalina security SecurityUtil Security Util,good
+Memory leak HttpSession Http Session,bad
+Inefficient String concatenation loop,bad
+Misleading comments StandardClassLoader Standard Loader,good
+NIO thread locked,bad
+Servlet response writer respect separator system property,bad
+WebappClassLoader cache META INF services leads performance issues Webapp Loader,good
+Bootstrap misspelled Boostrap javadoc org apache catalina startup Bootstrap,good
+org apache tomcat websocket WsSession repeated conditional tests Session,good
+javadoc org apache catalina startup Catalina complete usage method,good
+IllegalStateException zip file closed resource webfragment jar JreMemoryLeakPreventionListener removed Illegal Exception Jre Memory Leak Prevention Listener,bad
+JSP compilation problem application context root white spaces,bad
+DigestAuthenticator Helper incorrect lazy initialisation Digest Authenticator,good
+Correct display outdated sessions sessions count listing Manager application,good
+JNDI working,bad
+NullPointerException tribes transport nio NioReceiver listen test Pointer Exception Nio Receiver,good
+Enhance Exception reporting JAR file error,good
+Member hostname components printed signed bits,bad
+ExpiresFilter year synonym years configuration Expires Filter,good
+Read failed APR error code,bad
+misspellings javadoc org apache catalina startup ContextConfig Context Config,good
+Impossible naming factory SendMailFactory getObjectInstance Send Mail Factory Object Instance,bad
+Field org apache catalina tribes transport bio util FastQueue enabled Fast Queue,good
+misspelling javadoc org apache catalina startup SetNextNamingRule Naming Rule,good
+Incorrect lazy initialization update fields,bad
+misspellings javadoc org apache catalina startup TldConfig Tld Config,good
+misspellings javadoc org apache catalina startup WebRuleSet Web Rule,good
+NioConnector caches corrupted concurrent comet close Nio Connector,good
+primary sessions deleted BackupManager stopInternal Backup Manager Internal,good
+ClassCastException BackupManager stopInternal Exception Backup Manager Internal,good
